@@ -1,0 +1,301 @@
+instance,state,control,sat_verbal,sat_math,percent-financial-aid,no-applicants,percent-admittance,percent-enrolled,academics,social,quality-of-life,academic-emphasis,no-of-students,expenses_Transformed
+Long Beach State,Massachusetts,private,761,739,66,10000-24000,5,55,2.5,2.2,1.8,Education;Business Administration;Music,7000-14000,35000-41000
+University of Alabama,Colorado,public,700,716,58,52000-50000,6,62,2.7,2.2,1.7,Computer Science,28000-47000,14000-20000
+Idaho,New Hampshire,public,731,724,56,18000-32000,19,42,2.1,1.8,2.2,Art History,11000-22000,10000-17000
+Fresno State College,Idaho,public,755,777,58,48000-50000,19,65,2.6,1.6,2.7,Engineering;Economics,27000-39000,25000-31000
+Clemson,Hawaii,private,737,791,62,10000-14000,6,55,2.1,1.5,2.5,Sociology,2000-6000,29000-39000
+Northwestern,Alaska,private,797,772,76,24000-48000,19,59,2.5,2.3,2.2,Architecture;Education;Political Science,13000-15000,27000-37000
+University of Georgia,Maine,public,760,761,24,30000-42000,13,49,2.5,2.5,2.4,Chemistry,19000-39000,20000-27000
+Rhode Island State University,North Dakota,private,733,770,63,16000-42000,19,47,2.2,1.5,1.7,Medicine;Law;Sociology,9000-12000,25000-35000
+University of Colorado,Colorado,public,727,745,58,28000-50000,11,51,2.5,1.5,2.1,Chemistry,17000-31000,18000-24000
+Cornell,Connecticut,private,763,799,35,26000-50000,17,47,2.6,1.9,1.6,Agriculture,14000-21000,34000-46000
+Boise State State University,New York,public,799,761,39,26000-38000,12,67,2.3,2.3,1.9,Mathematics;English Literature,18000-33000,17000-26000
+LSU,Missouri,private,729,737,35,10000-24000,17,60,2.0,2.2,2.2,Music;Biology;Mathematics,5000-15000,33000-40000
+University of Oklahoma,Utah,private,764,717,33,10000-28000,12,64,2.3,2.3,2.4,Physics;Music;Art History,6000-13000,25000-31000
+Louisville State University,Utah,private,744,796,47,10000-14000,5,64,2.5,2.0,1.7,English Literature,5000-11000,35000-47000
+Binghamton State University,Indiana,private,761,725,46,26000-38000,9,61,2.1,2.5,1.8,Medicine;Physics;Agriculture,14000-23000,20000-27000
+University of Notre Dame,Michigan,private,730,793,31,12000-24000,12,64,2.5,1.5,1.9,Drama,8000-17000,26000-38000
+University of NYU,Mississippi,public,743,790,58,16000-42000,20,67,2.1,2.2,1.9,Economics,10000-18000,16000-24000
+Santa Clara State University,Wyoming,private,782,800,41,10000-8000,19,56,2.5,2.1,1.7,Psychology;Music;Communications,3000-5000,22000-37000
+Hawaii,North Dakota,private,726,723,77,10000-18000,17,64,2.2,2.2,2.7,Education;Philosophy;Computer Science,7000-12000,40000-54000
+TCU State University,Arkansas,private,730,758,31,16000-32000,15,59,2.2,1.5,2.0,Engineering;Agriculture;Anthropology,12000-18000,28000-42000
+University of Clemson,Tennessee,private,732,736,31,10000-30000,10,44,2.1,1.3,1.7,Law;Philosophy,1000-10000,27000-37000
+Cincinnati,Kansas,private,715,769,33,22000-46000,13,67,2.4,1.6,2.3,Psychology;Art History,12000-22000,21000-28000
+University of Michigan,Ohio,private,733,792,44,12000-22000,8,64,2.2,1.1,1.6,Architecture;Art History;Sociology,7000-17000,32000-42000
+UC Santa Barbara College,Rhode Island,private,741,766,68,22000-32000,15,58,2.6,1.4,2.0,Art History;Anthropology;Philosophy,14000-16000,25000-31000
+University of Brown,Delaware,public,749,752,51,50000-50000,5,45,2.7,2.4,2.5,Agriculture,29000-39000,24000-31000
+Indiana,Florida,private,705,781,57,10000-10000,16,43,2.3,2.0,1.9,Medicine,7000-14000,39000-52000
+Clemson State University,Iowa,public,711,751,29,36000-50000,8,64,2.7,1.0,1.7,Medicine,20000-31000,24000-32000
+University of Maine,Kentucky,private,744,729,72,10000-26000,16,68,2.1,1.7,2.5,Chemistry;Physics,4000-8000,32000-38000
+University of Pitt,North Dakota,public,774,749,41,56000-50000,15,45,2.4,2.1,2.5,Education;Sociology;Political Science,29000-40000,10000-20000
+Mississippi,Kansas,public,773,778,54,28000-40000,8,55,2.1,1.7,1.8,Chemistry;Sociology;Business Administration,15000-29000,10000-15000
+Kansas State University,Oklahoma,public,688,709,46,28000-36000,27,67,1.2,1.1,2.0,Nursing;Drama,29000-36000,15000-21000
+University of Kansas State,Massachusetts,public,679,719,33,14000-17000,41,34,1.3,1.0,1.7,Music,17000-22000,21000-26000
+Binghamton College,Virginia,private,716,683,43,1000-11000,38,24,1.2,1.0,1.4,Business Administration;Medicine,5000-10000,32000-41000
+University of Montana,Montana,public,691,699,25,14000-17000,43,47,1.3,1.0,1.1,Mathematics;Philosophy;Physics,17000-23000,13000-20000
+Rhode Island,Nebraska,private,668,638,36,2000-14000,28,68,1.0,1.0,1.0,Political Science,7000-10000,27000-32000
+University of Fordham,Nevada,private,671,726,49,1000-12000,36,38,1.0,1.1,1.0,Anthropology;Education,4000-14000,37000-44000
+Alabama State University,New Jersey,private,693,728,59,4000-17000,23,47,2.4,1.3,2.1,Biology;Business Administration;Architecture,8000-12000,26000-39000
+Boston U,Vermont,public,653,674,25,8000-16000,37,21,1.2,1.0,1.6,Philosophy;Economics;Anthropology,9000-17000,16000-22000
+UC Santa Barbara,Nebraska,private,630,678,31,1000-6000,28,65,1.2,1.0,1.7,Anthropology,3000-12000,32000-42000
+SMU State University,Delaware,private,678,637,66,3000-15000,20,64,1.1,1.0,1.9,Drama,8000-18000,37000-49000
+Nevada College,Mississippi,private,689,664,37,12000-19000,32,29,1.6,1.1,1.7,Agriculture;Education;Philosophy,15000-24000,37000-42000
+New Hampshire State University,West Virginia,private,638,623,73,9000-13000,20,47,1.1,1.3,1.6,Computer Science,13000-20000,40000-53000
+Buffalo College,Kentucky,public,718,624,42,21000-30000,48,46,1.5,1.0,1.0,Environmental Science,26000-41000,21000-27000
+Florida,North Carolina,public,704,624,46,9000-17000,45,22,1.5,1.5,1.9,Anthropology,12000-26000,15000-20000
+William & Mary,Delaware,public,637,637,41,5000-12000,41,35,1.7,1.0,1.0,Economics;Anthropology;Medicine,9000-23000,12000-21000
+University of Oregon,Georgia,public,627,619,40,16000-22000,41,36,1.6,1.0,1.5,Drama,19000-26000,13000-22000
+Georgia,Iowa,public,683,712,33,24000-32000,36,20,1.2,1.0,1.4,Business Administration;Music,26000-34000,22000-29000
+Villanova State University,Wyoming,private,671,664,48,1000-16000,27,69,1.4,1.0,1.9,Business Administration;Engineering;Nursing,1000-10000,24000-37000
+University of Boise State,South Dakota,private,666,621,64,5000-17000,36,43,1.3,1.2,1.0,Agriculture;Medicine,7000-17000,29000-39000
+Yale,Nevada,private,688,625,41,8000-16000,28,58,1.4,1.0,1.2,Anthropology;Physics;Law,12000-18000,31000-41000
+University of Texas Tech,Colorado,public,668,615,31,28000-37000,42,29,1.3,1.0,1.1,Drama,30000-47000,24000-33000
+Notre Dame,New York,private,642,648,74,12000-17000,38,49,1.6,1.0,1.1,Drama,15000-21000,38000-48000
+San Jose State State University,California,public,604,710,24,3000-6000,40,50,1.0,1.4,1.4,Nursing;Biology;Chemistry,7000-22000,20000-30000
+Purdue,Wyoming,private,709,648,74,1000-4000,50,48,1.4,1.3,2.0,Physics;Agriculture;Environmental Science,5000-8000,31000-44000
+University of Maryland,Indiana,public,617,620,49,7000-10000,20,52,1.3,1.0,1.2,Business Administration,12000-19000,21000-28000
+UC Davis State University,Texas,public,712,625,33,17000-28000,40,39,1.4,1.0,1.7,Anthropology;Biology,18000-30000,15000-20000
+Montana State University,Texas,public,613,668,60,22000-26000,39,45,1.2,1.2,1.0,Anthropology;Agriculture,27000-39000,18000-28000
+Caltech,Wyoming,public,653,712,50,15000-23000,48,40,1.7,1.5,1.6,Anthropology,17000-31000,13000-18000
+University of Houston,Idaho,public,711,666,34,6000-11000,48,31,1.6,1.0,1.2,Drama;Environmental Science;Mathematics,10000-17000,22000-27000
+University of Santa Clara,South Dakota,private,720,640,62,1000-11000,42,42,1.4,1.0,1.0,Philosophy;Nursing;Music,3000-7000,38000-44000
+Oklahoma,New Mexico,public,652,617,57,3000-17000,46,23,1.2,1.0,1.0,Economics;Law,8000-13000,12000-21000
+University of Fresno State,Illinois,private,658,704,33,8000-21000,46,46,1.3,1.0,2.0,Political Science;Sociology,13000-15000,36000-48000
+West Virginia State University,Wyoming,private,648,638,79,10000-16000,50,30,1.6,1.0,1.1,Physics,11000-15000,33000-42000
+Rutgers,Tennessee,private,606,673,34,1000-14000,26,51,1.4,1.0,1.7,Biology,2000-10000,39000-45000
+TCU,Rhode Island,private,631,658,45,6000-12000,46,44,1.5,1.2,1.0,Political Science;Chemistry,9000-14000,36000-51000
+UC Irvine State University,California,public,688,702,56,26000-40000,20,56,1.1,1.0,1.5,Nursing,28000-37000,15000-20000
+SMU,Connecticut,private,680,643,34,4000-8000,23,40,1.4,1.0,1.2,Computer Science;Communications;Medicine,6000-15000,37000-49000
+Stony Brook State University,Virginia,private,681,697,60,1000-7000,21,65,1.7,1.0,1.0,Education;Agriculture,2000-6000,24000-39000
+Montana,Iowa,private,675,721,32,1000-5000,34,21,1.0,1.5,1.5,Economics,1000-5000,37000-52000
+University of Carnegie Mellon,North Carolina,public,681,634,33,6000-19000,49,20,1.2,1.3,1.0,Psychology;Computer Science;Philosophy,9000-23000,11000-16000
+Arizona,Georgia,private,601,626,44,13000-18000,31,23,1.3,1.0,1.5,Environmental Science;Computer Science,15000-22000,33000-40000
+North Dakota,Florida,private,665,672,30,6000-20000,41,33,1.5,1.0,1.4,Agriculture,10000-14000,21000-28000
+George Washington,Florida,private,614,645,71,5000-17000,40,27,1.1,1.3,1.8,Chemistry;Communications;Physics,6000-13000,23000-29000
+University of Cincinnati,West Virginia,public,663,720,22,4000-12000,23,62,1.2,1.0,1.5,Music;Education,5000-15000,14000-21000
+UC Davis College,North Carolina,public,720,670,22,11000-24000,44,35,1.1,1.3,1.1,Architecture;Philosophy;Anthropology,12000-17000,25000-35000
+USC,Colorado,public,698,685,38,7000-14000,30,48,1.4,1.2,2.0,Anthropology,11000-19000,25000-33000
+UCLA,Rhode Island,public,617,613,43,12000-15000,38,26,1.6,1.3,1.9,Sociology,17000-34000,24000-29000
+WashU,Iowa,public,648,647,46,20000-26000,47,47,1.1,1.0,1.7,Business Administration,21000-31000,13000-21000
+University of Washington,Connecticut,private,686,715,71,5000-16000,40,33,2.2,1.8,2.4,Computer Science,8000-18000,35000-45000
+University of San Jose State,Massachusetts,private,665,644,78,14000-21000,45,37,1.1,1.0,1.0,Economics,15000-20000,29000-34000
+Nebraska State University,West Virginia,private,660,726,34,12000-15000,49,29,1.2,1.1,1.9,Anthropology;Psychology,15000-21000,23000-32000
+University of New Mexico,Connecticut,public,604,618,52,12000-26000,29,43,1.4,1.0,2.0,Psychology;Engineering,16000-24000,14000-22000
+Georgia State University,Iowa,public,705,730,22,7000-19000,46,48,2.4,1.6,3.0,Architecture,8000-14000,20000-25000
+Johns Hopkins,Louisiana,public,693,697,54,27000-34000,40,23,1.6,1.4,1.1,Agriculture;Art History;Environmental Science,29000-35000,17000-23000
+Maine State University,Vermont,private,663,613,31,1000-7000,27,69,1.4,1.5,1.4,Economics;Agriculture;Anthropology,4000-14000,38000-46000
+Temple State University,Mississippi,public,616,703,46,22000-37000,42,36,1.4,1.1,1.0,Chemistry,27000-37000,12000-17000
+Cal Poly,Oregon,private,630,712,43,6000-18000,41,21,1.6,1.0,1.0,Communications;Mathematics;Architecture,8000-14000,31000-45000
+University of UC Santa Cruz,South Dakota,private,612,616,67,1000-9000,27,53,1.3,1.1,1.1,Education;Environmental Science;Chemistry,1000-11000,31000-37000
+University of Villanova,Florida,public,655,657,49,20000-29000,21,46,1.5,1.0,1.1,Economics;Education,22000-28000,20000-26000
+University of Georgetown,Nebraska,public,717,722,31,19000-25000,37,30,2.5,2.1,2.9,Architecture;Music;Philosophy,21000-35000,16000-21000
+University of Minnesota,Hawaii,public,600,636,41,12000-17000,38,49,1.5,1.0,1.3,Art History,13000-21000,13000-22000
+Wyoming College,Ohio,public,657,615,45,23000-31000,33,35,1.4,1.0,1.1,Music;Philosophy;Computer Science,25000-36000,18000-24000
+University of Texas,South Carolina,private,631,679,65,14000-22000,34,33,1.0,1.1,1.0,Engineering,15000-20000,37000-46000
+Baylor,Indiana,public,652,627,25,18000-33000,27,48,1.5,1.0,1.9,Political Science,23000-33000,24000-33000
+Stanford,Oklahoma,private,718,672,69,1000-12000,46,30,1.6,1.0,1.7,Drama;Law,2000-9000,24000-32000
+Northeastern State University,Oklahoma,public,622,620,39,8000-17000,46,42,1.5,1.2,1.4,Environmental Science;Law;Music,13000-20000,19000-28000
+Miami,Minnesota,private,618,699,59,6000-13000,31,45,1.1,1.2,1.0,Psychology,11000-16000,24000-32000
+Minnesota,Oklahoma,public,631,664,43,22000-30000,24,52,1.5,1.1,1.0,Art History;Computer Science;Anthropology,24000-30000,25000-34000
+University of Indiana,Nevada,private,690,620,34,12000-19000,44,25,1.3,1.0,2.0,Business Administration;Physics;Biology,15000-19000,25000-38000
+University of Tennessee,Massachusetts,private,688,674,48,9000-13000,46,28,1.1,1.0,1.2,Engineering,11000-16000,30000-42000
+Princeton,Vermont,private,607,530,59,1000-4000,60,41,1.2,1.0,1.8,Environmental Science;Education;Nursing,1000-9000,35000-48000
+Fordham State University,New Jersey,private,594,556,52,2000-16000,54,32,1.5,1.0,1.0,Chemistry;Art History;Nursing,4000-14000,27000-34000
+George Washington State University,Kentucky,private,526,554,32,2000-6000,63,24,1.1,1.3,2.0,Anthropology;Communications;Chemistry,5000-7000,40000-48000
+LSU State University,South Dakota,public,617,590,53,10000-13000,50,28,1.5,1.0,1.4,Chemistry,14000-34000,24000-30000
+University of South Carolina,Oregon,public,504,531,60,4000-12000,80,42,1.6,1.4,1.0,Music,9000-21000,25000-30000
+Fresno State State University,Delaware,private,511,616,76,1000-16000,61,44,1.7,1.0,1.0,Business Administration;Environmental Science;Education,1000-10000,27000-39000
+University of Tufts,New Hampshire,private,581,599,60,8000-17000,62,28,1.3,1.0,2.0,Physics;Biology;Sociology,13000-20000,27000-37000
+Missouri State University,Idaho,public,523,536,50,20000-23000,52,45,1.0,1.0,1.0,English Literature,22000-33000,10000-16000
+Oklahoma State State University,Michigan,public,567,629,34,9000-20000,52,42,1.3,1.2,1.1,Nursing;Art History;Law,12000-24000,23000-28000
+Fresno State,Nebraska,public,581,603,53,11000-17000,58,45,1.5,1.0,1.2,Computer Science,13000-33000,21000-26000
+University of Chicago,Wisconsin,public,545,625,58,5000-11000,52,31,1.2,1.4,1.4,Drama;Chemistry,9000-14000,15000-25000
+Vermont College,Nebraska,public,606,541,26,25000-40000,78,35,1.1,1.0,1.0,Music;Psychology,27000-47000,23000-30000
+University of Harvard,Minnesota,private,596,560,68,7000-18000,90,47,1.6,1.0,1.0,Political Science;Agriculture;Business Administration,9000-16000,32000-42000
+Boise State,Wyoming,private,504,518,36,1000-4000,85,38,1.0,1.0,1.5,Medicine,5000-12000,39000-53000
+Auburn State University,Utah,public,597,545,27,29000-40000,47,29,1.2,1.0,1.3,English Literature;Law,30000-49000,24000-29000
+Boston College,Maryland,private,582,519,52,5000-19000,49,46,1.4,1.0,1.0,Agriculture;Law;Computer Science,7000-17000,40000-53000
+Houston State University,Idaho,public,564,601,27,13000-16000,50,28,1.3,1.0,1.4,Political Science;Anthropology,16000-24000,22000-31000
+Oregon State University,Alabama,private,597,622,76,2000-11000,95,45,1.3,1.0,1.9,Economics;Medicine;Law,4000-8000,31000-38000
+Iowa State State University,Indiana,public,516,594,35,25000-36000,61,40,1.3,1.3,1.1,Music,29000-46000,23000-28000
+University of UC Riverside,Vermont,public,559,594,24,6000-20000,68,23,1.3,1.0,1.7,Drama;English Literature,11000-20000,22000-30000
+University of San Diego State,Nevada,private,588,607,65,2000-15000,72,36,1.4,1.0,1.3,Architecture;Sociology;Law,5000-10000,38000-44000
+University of Vermont,Ohio,public,587,554,52,13000-18000,60,22,1.6,1.0,1.8,Communications;Business Administration,15000-26000,19000-28000
+American,Oklahoma,public,562,555,24,23000-37000,73,30,1.2,1.3,1.0,Architecture;Nursing;Mathematics,25000-41000,18000-28000
+Arkansas,South Dakota,public,589,575,21,22000-32000,58,22,1.1,1.0,1.0,Medicine,27000-40000,23000-33000
+UC Santa Cruz State University,Alabama,private,616,553,55,2000-8000,61,49,1.4,1.0,1.0,Business Administration;Architecture,7000-17000,32000-37000
+San Diego State State University,Oregon,private,593,534,64,6000-17000,41,38,1.5,1.0,1.2,Psychology;Chemistry,7000-17000,20000-26000
+South Dakota State University,Missouri,public,506,620,43,6000-15000,66,24,1.5,1.0,1.2,Sociology;Communications;Chemistry,11000-29000,21000-28000
+Case Western,Massachusetts,public,575,521,28,26000-36000,69,27,1.5,1.2,1.7,Business Administration;Environmental Science;Sociology,30000-49000,20000-26000
+Texas A&M State University,Mississippi,public,531,536,56,21000-31000,58,22,1.7,1.2,1.6,Education;Chemistry;Business Administration,23000-31000,23000-29000
+University of Caltech,Idaho,private,519,523,59,5000-13000,91,43,1.4,1.0,1.0,Law,7000-12000,20000-25000
+University of Cal Poly,Pennsylvania,public,558,535,22,19000-23000,52,23,1.4,1.0,1.6,Mathematics;Music,20000-31000,11000-19000
+UC San Diego State University,Louisiana,public,560,630,38,24000-36000,90,32,1.3,1.0,1.0,Computer Science;Education,29000-43000,25000-35000
+Carnegie Mellon,North Carolina,private,526,619,48,10000-23000,67,24,1.3,1.0,1.0,Art History;Communications,12000-22000,39000-49000
+Cal Poly College,North Dakota,private,610,533,80,1000-10000,77,31,1.4,1.0,1.0,Engineering;Chemistry;Sociology,1000-7000,29000-41000
+Maine College,Arizona,private,577,526,34,13000-16000,72,33,1.5,1.0,1.3,Environmental Science,14000-20000,23000-32000
+Stony Brook College,North Carolina,private,527,555,66,1000-7000,65,47,1.4,1.0,1.0,Medicine;Music,1000-3000,33000-43000
+University of Boston U,Indiana,private,526,560,42,9000-18000,74,22,1.0,1.0,1.0,Computer Science;Biology;Political Science,12000-21000,24000-38000
+Lehigh,Kansas,public,605,620,24,22000-34000,61,46,1.3,1.0,1.6,Chemistry;Nursing;Economics,23000-38000,18000-28000
+University of Tulane,North Dakota,public,587,586,21,6000-10000,91,28,1.3,1.5,1.0,Sociology;Physics,8000-26000,17000-26000
+Maine,Connecticut,private,605,580,63,6000-18000,54,23,1.7,1.0,1.0,Communications,10000-15000,25000-30000
+University of Ohio State,Arkansas,private,573,532,77,11000-22000,49,37,1.6,1.0,1.0,Psychology,12000-21000,38000-48000
+Arizona State,Pennsylvania,public,544,588,54,14000-23000,74,37,1.0,1.0,1.2,Economics,16000-22000,11000-18000
+New Hampshire,Hawaii,public,560,622,53,18000-28000,48,22,1.4,1.1,1.0,Law;Psychology;Education,21000-26000,19000-29000
+University of Syracuse,Wisconsin,public,577,599,60,14000-19000,42,27,1.4,1.0,1.0,Drama;Nursing,19000-31000,15000-20000
+University of Columbia,Wisconsin,public,504,622,49,4000-11000,62,28,1.7,1.0,1.1,Political Science;Engineering,6000-24000,22000-31000
+University of MIT,Maine,public,615,518,32,25000-33000,90,37,1.4,1.0,2.0,Anthropology,26000-33000,13000-21000
+University of WashU,New York,public,513,559,45,18000-32000,65,26,1.4,1.2,1.6,English Literature;Economics;Education,21000-39000,22000-31000
+University of Wake Forest,Montana,public,559,606,40,22000-31000,94,26,1.2,1.0,1.7,Education;Chemistry;Political Science,27000-35000,10000-16000
+Wyoming State University,Alabama,public,504,577,29,29000-34000,48,33,1.1,1.0,1.1,Biology;Mathematics,30000-42000,14000-20000
+American State University,Maryland,public,575,605,44,17000-32000,74,37,1.1,1.0,1.2,Physics;Communications,18000-35000,12000-19000
+Colorado,Florida,public,606,552,29,12000-21000,81,34,1.6,1.0,2.0,Communications,13000-21000,11000-21000
+Mississippi State College,Texas,public,544,566,56,2000-11000,51,33,1.7,1.0,1.0,English Literature;Nursing,7000-22000,11000-20000
+University of Buffalo,Montana,public,613,607,36,21000-32000,79,36,1.1,1.0,1.6,Physics;Engineering;Business Administration,25000-32000,14000-22000
+Buffalo,Florida,private,563,515,46,5000-14000,61,49,1.5,1.2,1.0,Nursing;Education;Biology,6000-16000,21000-36000
+RPI State University,Maine,private,584,566,59,1000-5000,80,46,1.4,1.0,1.4,Economics;Art History,1000-9000,28000-40000
+University of Lehigh,Kansas,public,507,618,32,7000-22000,89,32,1.5,1.0,1.0,Chemistry;Education,11000-26000,25000-32000
+University of William & Mary,Iowa,private,556,607,42,3000-8000,81,42,1.1,1.0,1.7,Communications;Drama,6000-9000,28000-40000
+University of Cornell,California,public,527,591,39,24000-33000,91,20,1.7,1.0,1.5,Physics;Chemistry,28000-37000,12000-22000
+San Diego State,Michigan,public,526,584,42,6000-17000,45,32,1.6,1.0,1.0,Communications;Psychology;Engineering,9000-27000,11000-21000
+University of Long Beach State,Kentucky,private,586,538,67,6000-21000,45,21,1.1,1.4,1.8,Environmental Science;Nursing,11000-18000,20000-31000
+University of Connecticut,Kansas,private,580,599,70,1000-10000,84,23,1.1,1.0,1.7,Education;Business Administration;Political Science,1000-5000,29000-38000
+University of Johns Hopkins,New Mexico,private,511,616,67,3000-15000,54,40,1.6,1.0,1.7,Drama,7000-12000,27000-34000
+WPI,Georgia,public,541,602,29,23000-35000,51,37,1.5,1.0,1.4,Economics;Chemistry,25000-45000,13000-21000
+Arkansas State University,Rhode Island,private,561,616,75,11000-20000,61,21,1.0,1.0,1.5,English Literature;Art History;Mathematics,12000-18000,38000-43000
+University of Albany,Iowa,private,584,553,63,1000-8000,68,42,1.6,1.0,1.3,Education,3000-10000,40000-48000
+University of Illinois,Kansas,private,536,600,71,1000-10000,70,28,1.6,1.0,1.8,Communications;Political Science,3000-12000,30000-44000
+Idaho College,Illinois,private,602,618,32,8000-17000,86,47,1.1,1.0,1.8,Music;Business Administration,12000-14000,27000-36000
+Vermont,New Hampshire,public,509,580,32,23000-30000,45,37,1.7,1.0,1.8,Communications;Music;Agriculture,28000-39000,16000-22000
+UC Santa Cruz College,Utah,public,541,595,53,11000-16000,68,41,1.3,1.0,1.7,Agriculture;Anthropology;Law,14000-25000,25000-34000
+University of UC Davis,North Dakota,public,540,617,41,23000-38000,66,28,1.5,1.0,1.8,Architecture,28000-40000,10000-18000
+Nevada State University,New Mexico,public,597,538,56,17000-29000,80,34,1.7,1.0,2.0,Art History,20000-39000,22000-28000
+Virginia,Vermont,private,504,531,42,1000-9000,80,39,1.0,1.1,1.5,Drama;Chemistry,5000-15000,20000-31000
+West Virginia College,North Carolina,public,501,579,20,19000-24000,73,39,1.3,1.0,1.0,Agriculture;Law;Architecture,23000-33000,18000-25000
+University of Nebraska,Delaware,private,600,602,59,12000-20000,68,31,1.4,1.0,1.0,Nursing;Economics,13000-15000,38000-43000
+Tennessee,Kentucky,private,540,553,49,8000-16000,64,27,1.5,1.2,1.0,Environmental Science;Engineering;Nursing,10000-14000,36000-43000
+Kentucky State University,Kentucky,private,618,510,43,1000-8000,90,43,1.4,1.1,1.2,Anthropology,4000-8000,24000-33000
+University of Rice,Wisconsin,private,526,540,43,8000-22000,82,49,1.7,1.0,1.8,Engineering,9000-13000,35000-40000
+Santa Clara,Washington,private,573,546,74,1000-7000,93,31,1.5,1.0,1.7,Architecture,5000-14000,23000-38000
+University of BYU,Connecticut,private,542,534,61,1000-5000,50,36,1.5,1.0,1.1,Mathematics,1000-10000,33000-38000
+New Mexico,Rhode Island,public,583,619,23,21000-35000,53,30,1.6,1.0,1.0,Political Science,25000-41000,18000-25000
+Cal Poly State University,Tennessee,private,594,578,69,9000-24000,49,26,1.1,1.0,1.0,Medicine;Mathematics;Nursing,12000-18000,23000-29000
+University of Georgia Tech,Connecticut,public,549,537,34,23000-36000,95,20,1.3,1.0,1.1,Biology;Drama;Mathematics,26000-34000,19000-24000
+Texas A&M,Tennessee,public,545,542,38,7000-15000,95,29,1.0,1.0,1.0,Psychology;Medicine,12000-23000,21000-29000
+University of Princeton,Virginia,public,511,552,42,24000-28000,79,39,1.6,1.4,1.1,Music;Agriculture,27000-42000,16000-24000
+University of RPI,New Mexico,private,571,622,70,1000-9000,76,37,1.6,1.2,1.4,Engineering;Computer Science;Medicine,2000-11000,22000-29000
+Boise State College,Missouri,public,576,551,45,17000-23000,68,46,1.2,1.0,1.0,Chemistry,18000-23000,19000-27000
+University of WPI,Rhode Island,private,576,538,74,4000-19000,85,22,1.2,1.1,1.6,Architecture,8000-13000,30000-37000
+Penn State,Maryland,public,506,612,21,6000-13000,92,34,1.1,1.0,2.0,Sociology;Mathematics,8000-17000,16000-24000
+Stevens,Michigan,private,585,534,66,6000-19000,79,42,1.1,1.3,1.4,Philosophy,7000-11000,23000-28000
+San Jose State College,Alaska,private,512,544,78,7000-12000,77,28,1.6,1.4,1.3,Environmental Science,9000-15000,28000-33000
+University of UNC,Illinois,private,538,596,32,9000-12000,54,26,1.1,1.0,1.1,Psychology,14000-19000,26000-38000
+UC San Diego,South Carolina,private,580,565,37,5000-12000,86,37,1.3,1.0,1.5,Economics;Engineering,8000-13000,33000-48000
+Virginia Tech State University,Iowa,public,510,576,33,13000-21000,92,44,1.0,1.0,1.0,Economics;Agriculture;Psychology,16000-36000,11000-19000
+University of Boston College,New York,private,547,625,40,2000-15000,43,28,1.5,1.1,1.0,Chemistry;Agriculture;Law,3000-13000,27000-42000
+Case Western State University,Illinois,private,520,526,50,1000-7000,61,36,1.7,1.3,1.0,Psychology;Political Science,1000-8000,29000-41000
+Utah State University,Alabama,public,568,605,39,16000-24000,41,46,1.3,1.3,1.0,Architecture;Business Administration,17000-24000,25000-33000
+Iowa,Tennessee,public,610,610,32,23000-27000,69,24,1.6,1.1,1.1,Mathematics,27000-37000,21000-27000
+University of Stony Brook,Idaho,public,519,517,23,22000-31000,92,37,1.3,1.0,1.9,Physics;Environmental Science;Drama,27000-40000,15000-20000
+Maryland,New York,public,532,560,59,9000-13000,88,40,1.1,1.2,1.5,Architecture;Agriculture;Music,11000-22000,12000-19000
+University of Penn State,South Dakota,public,591,546,34,10000-20000,75,30,1.2,1.5,1.9,Economics,11000-21000,10000-19000
+Syracuse,West Virginia,private,545,585,66,11000-23000,65,41,1.3,1.0,1.6,Philosophy;English Literature,15000-17000,29000-40000
+University of Mississippi State,Oklahoma,private,519,573,64,5000-8000,89,25,1.5,1.3,2.0,Education;Anthropology,6000-8000,35000-42000
+UMass,Hawaii,public,587,553,34,8000-15000,71,29,1.4,1.2,1.8,Music;Medicine;Art History,11000-27000,18000-23000
+Boston U State University,Maine,private,543,543,55,1000-10000,43,45,1.2,1.4,1.9,Chemistry;Law,1000-10000,38000-46000
+Colorado State University,Mississippi,private,501,621,62,1000-15000,67,26,1.4,1.0,1.2,Education,4000-13000,39000-47000
+University of Mississippi,Idaho,private,586,526,80,1000-5000,84,25,1.7,1.0,1.0,Computer Science,3000-6000,40000-53000
+University of Arizona,Hawaii,private,555,604,55,3000-15000,65,22,1.6,1.4,1.0,Psychology;Political Science,4000-10000,31000-45000
+New Mexico State University,Georgia,private,513,615,57,11000-19000,70,21,1.0,1.2,1.0,Mathematics,13000-23000,22000-37000
+WPI State University,Montana,private,533,626,59,7000-21000,62,32,1.0,1.1,1.6,Art History;Biology;Economics,10000-12000,35000-45000
+Albany,Maryland,private,598,588,71,8000-18000,91,47,1.6,1.0,1.0,Economics,10000-18000,36000-50000
+Georgia Tech,Texas,public,510,535,57,1000-4000,84,30,1.3,1.4,1.9,Sociology;Art History,5000-24000,15000-25000
+UC Irvine College,North Carolina,private,606,549,38,6000-19000,46,31,1.2,1.3,1.0,Psychology,11000-20000,22000-36000
+University of Northwestern,Oregon,public,542,628,31,15000-21000,90,45,1.1,1.0,2.0,Engineering;Music,16000-21000,23000-28000
+Mississippi State University,New Jersey,private,502,572,68,1000-5000,44,20,1.3,1.0,1.5,Art History,3000-12000,27000-36000
+University of New Hampshire,Wyoming,public,524,589,38,26000-36000,61,48,1.2,1.3,1.2,Physics;Engineering;Economics,28000-36000,12000-21000
+Virginia Tech,Kansas,public,502,566,54,3000-17000,44,27,1.5,1.4,1.3,English Literature;Business Administration;Medicine,8000-19000,11000-19000
+UC Riverside,Vermont,private,572,591,34,1000-14000,42,42,1.2,1.0,1.4,Political Science;Sociology;Art History,6000-11000,31000-36000
+University of Purdue,Oregon,public,556,596,33,2000-6000,55,44,1.6,1.0,1.4,Music;Environmental Science;English Literature,7000-24000,22000-32000
+Duke,Virginia,private,522,528,38,1000-6000,50,36,1.5,1.0,1.5,Chemistry;Medicine;Physics,1000-7000,27000-40000
+Arizona State State University,New Mexico,private,582,592,44,10000-23000,80,24,1.6,1.0,1.1,Physics;Sociology;Medicine,14000-21000,21000-30000
+University of UC San Diego,New Hampshire,private,509,570,33,7000-12000,53,34,1.5,1.0,1.0,English Literature;Music;Mathematics,12000-18000,28000-33000
+Georgetown,Massachusetts,private,566,580,61,4000-13000,70,37,1.3,1.0,1.0,Economics,9000-14000,35000-50000
+UC Riverside College,Idaho,private,610,606,44,3000-11000,50,33,1.5,1.0,1.0,Economics;Anthropology;Music,7000-10000,21000-32000
+University of Baylor,Georgia,private,571,545,30,3000-10000,87,29,1.7,1.0,1.0,Chemistry,8000-16000,23000-35000
+University of Dartmouth,Wisconsin,private,535,590,34,9000-13000,47,23,1.2,1.0,1.3,Computer Science;Communications,10000-17000,24000-35000
+Delaware College,Maryland,private,552,596,76,9000-16000,86,20,1.2,1.1,1.8,Drama,11000-18000,35000-45000
+Washington,North Dakota,public,540,513,59,22000-27000,95,25,1.5,1.1,1.0,Art History;Architecture,26000-39000,22000-28000
+University of Louisville,Tennessee,public,535,546,48,14000-29000,77,36,1.6,1.3,1.0,Law;Computer Science,17000-30000,11000-19000
+University of Binghamton,Georgia,private,612,608,43,1000-12000,54,34,1.4,1.4,1.2,Political Science,4000-8000,32000-47000
+Long Beach State State University,North Dakota,private,613,513,77,9000-15000,91,20,1.2,1.1,1.0,Psychology,12000-15000,25000-39000
+Wisconsin,North Dakota,public,538,534,24,5000-16000,86,30,1.5,1.2,1.7,Anthropology,9000-24000,24000-33000
+NC State State University,Utah,public,592,623,51,9000-18000,76,42,1.4,1.0,1.3,Philosophy;Architecture;Economics,10000-15000,15000-21000
+University of UC Irvine,Alabama,public,602,604,47,14000-17000,94,42,1.3,1.0,1.7,Biology;Physics,16000-25000,23000-32000
+Louisville,Delaware,public,603,628,33,6000-15000,90,38,1.6,1.0,1.8,Business Administration,10000-17000,10000-16000
+University of American,Montana,private,598,546,53,9000-12000,56,38,1.4,1.5,1.0,Economics;Engineering;Biology,10000-12000,31000-46000
+University of Florida,Rhode Island,public,598,520,37,6000-14000,76,26,1.0,1.0,1.6,Medicine,10000-26000,14000-23000
+University of SMU,Montana,private,601,559,60,3000-13000,40,44,1.0,1.0,1.3,Medicine,8000-15000,38000-50000
+University of Delaware,North Carolina,public,540,526,38,4000-19000,42,46,1.1,1.1,1.0,Agriculture;Mathematics,7000-18000,25000-31000
+San Diego State College,Mississippi,private,513,598,44,9000-15000,65,26,1.2,1.4,1.3,Education;Philosophy,13000-19000,34000-48000
+University of UMass,Ohio,public,534,580,43,16000-26000,44,22,1.6,1.0,1.1,Agriculture,19000-29000,11000-16000
+University of Northeastern,North Dakota,private,575,514,31,5000-11000,66,33,1.1,1.0,1.7,Engineering;Music;Drama,7000-9000,31000-41000
+Oklahoma State,Connecticut,public,534,561,35,18000-28000,69,35,1.2,1.0,1.0,Anthropology,20000-31000,14000-21000
+Kansas State State University,Georgia,private,611,581,41,8000-21000,68,46,1.0,1.1,1.0,Physics;Medicine,9000-16000,37000-48000
+BYU,Georgia,public,599,572,41,23000-38000,89,34,1.6,1.0,1.0,Anthropology,24000-37000,10000-15000
+Texas Tech,Oklahoma,public,576,593,51,10000-13000,82,47,1.2,1.0,2.0,Anthropology;Nursing,14000-29000,25000-32000
+University of Hawaii,North Carolina,private,602,627,56,1000-13000,72,23,1.4,1.0,1.2,Communications;Law,2000-8000,22000-37000
+South Carolina State University,Arkansas,private,600,558,78,6000-14000,79,43,1.3,1.0,1.0,Chemistry;Physics,8000-13000,35000-48000
+North Dakota State University,New Jersey,private,509,522,44,8000-16000,79,20,1.3,1.0,1.5,Agriculture;Drama,12000-14000,36000-42000
+University of Virginia Tech,Missouri,public,542,629,60,12000-19000,44,46,1.5,1.4,1.0,Law,17000-33000,14000-23000
+University of LSU,Oregon,public,539,604,44,26000-35000,84,41,1.1,1.0,1.0,Engineering;Communications,27000-33000,20000-25000
+Tulane,Missouri,public,528,606,40,21000-25000,50,39,1.4,1.0,2.0,Architecture;Philosophy,25000-44000,18000-23000
+University of Texas A&M,Montana,public,528,544,36,23000-29000,72,23,1.7,1.4,1.0,Physics;Music;English Literature,28000-48000,17000-25000
+University of Wisconsin,Maryland,private,618,549,34,10000-17000,57,42,1.7,1.0,1.4,Environmental Science,12000-17000,36000-41000
+UMass State University,Iowa,public,545,569,42,14000-23000,42,49,1.4,1.0,1.0,Business Administration;Agriculture;Political Science,17000-30000,16000-21000
+Rhode Island College,Wisconsin,public,551,617,33,2000-17000,54,33,1.6,1.0,1.7,Art History,7000-26000,16000-23000
+University of North Dakota,South Carolina,private,586,579,34,1000-10000,61,43,1.3,1.2,1.0,Architecture,2000-8000,40000-47000
+Northeastern,Iowa,public,549,544,53,13000-26000,76,48,1.5,1.2,1.4,Communications;English Literature,15000-31000,17000-24000
+University of Wyoming,Vermont,private,521,597,37,3000-12000,67,36,1.3,1.0,2.0,Physics;Architecture;Law,5000-7000,20000-35000
+University of Berkeley,Washington,public,503,571,53,27000-35000,91,43,1.1,1.0,1.0,Drama;Physics,28000-36000,18000-27000
+University of Pepperdine,North Carolina,public,547,525,52,17000-21000,83,30,1.6,1.0,1.0,Chemistry;Drama;Engineering,21000-31000,23000-33000
+Oregon,Vermont,private,568,539,55,7000-13000,44,24,1.4,1.0,1.0,Education;Drama,11000-16000,33000-41000
+University of Duke,New Mexico,public,513,542,27,9000-13000,84,41,1.5,1.0,1.9,English Literature;Communications;Engineering,11000-24000,16000-25000
+University of Case Western,Illinois,public,525,577,38,16000-23000,62,32,1.6,1.0,1.3,Art History;Biology,17000-33000,17000-22000
+Mississippi State State University,Oklahoma,public,592,615,45,29000-36000,86,21,1.2,1.0,1.0,Education,30000-40000,22000-27000
+Emory,Wyoming,private,515,593,62,1000-14000,82,38,1.6,1.3,1.3,Drama;Medicine;Business Administration,3000-7000,29000-43000
+Nevada,Louisiana,private,506,567,41,6000-12000,40,28,1.7,1.2,2.0,English Literature;Law,8000-17000,25000-35000
+Hawaii College,Hawaii,private,555,548,65,2000-12000,77,43,1.5,1.0,1.7,Law;Biology,7000-15000,40000-51000
+Wyoming,Connecticut,private,552,615,76,12000-26000,42,41,1.3,1.0,1.2,Education,15000-20000,36000-45000
+University of Arkansas,North Dakota,public,620,615,56,11000-16000,86,43,1.6,1.0,1.7,Architecture;Medicine;Sociology,12000-27000,20000-26000
+Lehigh State University,Nebraska,public,608,521,36,22000-26000,43,30,1.3,1.4,1.2,Political Science,26000-34000,16000-23000
+Penn,Georgia,private,600,571,41,4000-9000,79,33,1.4,1.0,1.8,Environmental Science;Engineering;Nursing,8000-13000,36000-51000
+University of UC Santa Barbara,Georgia,private,567,575,72,1000-5000,83,38,1.4,1.0,1.8,Architecture,4000-13000,39000-52000
+University of Emory,California,public,570,531,45,8000-13000,46,32,1.4,1.0,1.4,Biology,12000-19000,21000-28000
+University of Utah,Massachusetts,public,551,573,29,12000-26000,56,46,1.3,1.3,1.0,Biology;Nursing,16000-36000,21000-28000
+Texas Tech State University,Indiana,public,619,529,28,28000-36000,89,35,1.4,1.0,1.8,Political Science;Architecture,29000-48000,19000-27000
+Nebraska,Alabama,public,596,534,22,18000-25000,89,31,1.1,1.0,1.0,Communications;Architecture;Sociology,21000-31000,24000-31000
+Stevens State University,Oregon,public,505,619,24,19000-22000,85,47,1.3,1.1,1.8,Engineering;Sociology,21000-37000,11000-17000
+Montana College,Massachusetts,public,563,607,24,3000-12000,73,35,1.3,1.0,1.4,Nursing;Engineering,7000-12000,11000-20000
+University of Iowa State,West Virginia,private,605,576,78,1000-5000,68,21,1.5,1.2,1.7,Political Science;Sociology;Art History,1000-10000,35000-42000
+UC Riverside State University,Louisiana,public,581,552,45,10000-22000,72,33,1.3,1.3,1.1,Physics;Nursing;Drama,11000-16000,24000-32000
+Washington State University,Washington,private,564,552,71,7000-22000,71,43,1.2,1.0,1.7,Environmental Science;Drama,12000-19000,29000-35000
+Delaware State University,Hawaii,private,526,581,54,1000-11000,67,30,1.5,1.0,1.2,Art History;Sociology,3000-9000,30000-36000
+Albany State University,Utah,public,526,541,40,18000-33000,67,26,1.3,1.1,1.0,Drama,22000-40000,11000-20000
+Tulane State University,Colorado,private,576,547,53,9000-20000,90,45,1.2,1.0,1.3,Economics;Philosophy;Music,12000-20000,32000-38000
+Oklahoma State University,Rhode Island,private,577,588,78,3000-12000,51,37,1.4,1.3,1.0,Mathematics;Agriculture,8000-16000,25000-36000
+University of Penn,New York,public,523,608,49,20000-28000,74,39,1.5,1.0,1.4,Education,24000-33000,13000-22000
+University of Idaho,Kansas,public,570,525,27,8000-19000,66,43,1.1,1.3,1.9,Business Administration;Sociology;Economics,10000-29000,15000-24000
+Buffalo State University,Alaska,public,553,538,30,28000-35000,73,39,1.5,1.0,1.5,Biology,29000-45000,19000-24000
+Fordham,Idaho,private,601,626,46,1000-14000,90,28,1.3,1.0,2.0,Environmental Science,4000-14000,22000-35000
+University of Rutgers,New York,private,581,600,79,10000-23000,60,44,1.1,1.0,1.1,Chemistry;Engineering,12000-18000,20000-30000
+Tufts,Vermont,public,552,608,41,18000-32000,46,25,1.2,1.0,1.0,Music;Psychology,20000-29000,15000-21000
+University of West Virginia,Nevada,private,579,513,80,1000-11000,81,34,1.5,1.0,1.3,English Literature;Sociology,5000-15000,21000-26000
+University of Nevada,Colorado,private,598,609,63,5000-8000,66,40,1.4,1.0,1.3,Economics;Anthropology,10000-14000,30000-45000
+Stony Brook,Alabama,private,559,526,64,7000-10000,55,24,1.5,1.0,1.6,Anthropology,8000-13000,22000-35000
+Vanderbilt,Maryland,private,602,522,57,8000-18000,51,35,1.1,1.0,1.3,Sociology;Law;Philosophy,13000-23000,28000-36000
+University of TCU,Montana,public,616,534,48,26000-32000,76,26,1.0,1.0,2.0,Physics,28000-42000,25000-35000
+University of Stevens,Wyoming,public,609,572,31,24000-30000,94,20,1.5,1.0,1.0,Medicine,27000-33000,15000-21000
+Baylor State University,California,private,521,546,64,9000-15000,86,32,1.6,1.1,1.0,Psychology,14000-22000,28000-39000
+Pitt,Wyoming,public,520,554,54,2000-13000,70,46,1.1,1.1,1.5,Architecture;Communications;Nursing,7000-25000,19000-29000
+UC Davis,Arkansas,private,581,616,49,7000-13000,51,38,1.7,1.5,1.6,Business Administration;Computer Science,8000-12000,40000-50000

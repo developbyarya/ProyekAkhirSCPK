@@ -1,0 +1,301 @@
+instance,state,control,no-of-students,male:female,student:faculty,sat_verbal,sat_math,expenses,percent-financial-aid,no-applicants,percent-admittance,percent-enrolled,academics,social,quality-of-life,academic-emphasis
+Long Beach State,Massachusetts,private,thous:7-14,ratio:49:51,ratio:13:1,761,739,thous$:35-41,66,thous:10-24,5,55,scale:1-5 2.5,scale:1-5 2.2,scale:1-5 1.8,Education;Business Administration;Music
+University of Alabama,Colorado,public,thous:28-47,ratio:51:49,ratio:15:1,700,716,thous$:14-20,58,thous:52-50,6,62,scale:1-5 2.7,scale:1-5 2.2,scale:1-5 1.7,Computer Science
+Idaho,New Hampshire,public,thous:11-22,ratio:53:47,ratio:20:1,731,724,thous$:10-17,56,thous:18-32,19,42,scale:1-5 2.1,scale:1-5 1.8,scale:1-5 2.2,Art History
+Fresno State College,Idaho,public,thous:27-39,ratio:41:59,ratio:21:1,755,777,thous$:25-31,58,thous:48-50,19,65,scale:1-5 2.6,scale:1-5 1.6,scale:1-5 2.7,Engineering;Economics
+Clemson,Hawaii,private,thous:2-6,ratio:59:41,ratio:14:1,737,791,thous$:29-39,62,thous:10-14,6,55,scale:1-5 2.1,scale:1-5 1.5,scale:1-5 2.5,Sociology
+Northwestern,Alaska,private,thous:13-15,ratio:49:51,ratio:13:1,797,772,thous$:27-37,76,thous:24-48,19,59,scale:1-5 2.5,scale:1-5 2.3,scale:1-5 2.2,Architecture;Education;Political Science
+University of Georgia,Maine,public,thous:19-39,ratio:53:47,ratio:20:1,760,761,thous$:20-27,24,thous:30-42,13,49,scale:1-5 2.5,scale:1-5 2.5,scale:1-5 2.4,Chemistry
+Rhode Island State University,North Dakota,private,thous:9-12,ratio:60:40,ratio:15:1,733,770,thous$:25-35,63,thous:16-42,19,47,scale:1-5 2.2,scale:1-5 1.5,scale:1-5 1.7,Medicine;Law;Sociology
+University of Colorado,Colorado,public,thous:17-31,ratio:53:47,ratio:18:1,727,745,thous$:18-24,58,thous:28-50,11,51,scale:1-5 2.5,scale:1-5 1.5,scale:1-5 2.1,Chemistry
+Cornell,Connecticut,private,thous:14-21,ratio:45:55,ratio:15:1,763,799,thous$:34-46,35,thous:26-50,17,47,scale:1-5 2.6,scale:1-5 1.9,scale:1-5 1.6,Agriculture
+Boise State State University,New York,public,thous:18-33,ratio:56:44,ratio:20:1,799,761,thous$:17-26,39,thous:26-38,12,67,scale:1-5 2.3,scale:1-5 2.3,scale:1-5 1.9,Mathematics;English Literature
+LSU,Missouri,private,thous:5-15,ratio:40:60,ratio:15:1,729,737,thous$:33-40,35,thous:10-24,17,60,scale:1-5 2.0,scale:1-5 2.2,scale:1-5 2.2,Music;Biology;Mathematics
+University of Oklahoma,Utah,private,thous:6-13,ratio:55:45,ratio:14:1,764,717,thous$:25-31,33,thous:10-28,12,64,scale:1-5 2.3,scale:1-5 2.3,scale:1-5 2.4,Physics;Music;Art History
+Louisville State University,Utah,private,thous:5-11,ratio:46:54,ratio:13:1,744,796,thous$:35-47,47,thous:10-14,5,64,scale:1-5 2.5,scale:1-5 2.0,scale:1-5 1.7,English Literature
+Binghamton State University,Indiana,private,thous:14-23,ratio:43:57,ratio:14:1,761,725,thous$:20-27,46,thous:26-38,9,61,scale:1-5 2.1,scale:1-5 2.5,scale:1-5 1.8,Medicine;Physics;Agriculture
+University of Notre Dame,Michigan,private,thous:8-17,ratio:46:54,ratio:14:1,730,793,thous$:26-38,31,thous:12-24,12,64,scale:1-5 2.5,scale:1-5 1.5,scale:1-5 1.9,Drama
+University of NYU,Mississippi,public,thous:10-18,ratio:46:54,ratio:15:1,743,790,thous$:16-24,58,thous:16-42,20,67,scale:1-5 2.1,scale:1-5 2.2,scale:1-5 1.9,Economics
+Santa Clara State University,Wyoming,private,thous:3-5,ratio:50:50,ratio:13:1,782,800,thous$:22-37,41,thous:10-8,19,56,scale:1-5 2.5,scale:1-5 2.1,scale:1-5 1.7,Psychology;Music;Communications
+Hawaii,North Dakota,private,thous:7-12,ratio:58:42,ratio:15:1,726,723,thous$:40-54,77,thous:10-18,17,64,scale:1-5 2.2,scale:1-5 2.2,scale:1-5 2.7,Education;Philosophy;Computer Science
+TCU State University,Arkansas,private,thous:12-18,ratio:53:47,ratio:10:1,730,758,thous$:28-42,31,thous:16-32,15,59,scale:1-5 2.2,scale:1-5 1.5,scale:1-5 2.0,Engineering;Agriculture;Anthropology
+University of Clemson,Tennessee,private,thous:1-10,ratio:50:50,ratio:11:1,732,736,thous$:27-37,31,thous:10-30,10,44,scale:1-5 2.1,scale:1-5 1.3,scale:1-5 1.7,Law;Philosophy
+Cincinnati,Kansas,private,thous:12-22,ratio:59:41,ratio:13:1,715,769,thous$:21-28,33,thous:22-46,13,67,scale:1-5 2.4,scale:1-5 1.6,scale:1-5 2.3,Psychology;Art History
+University of Michigan,Ohio,private,thous:7-17,ratio:47:53,ratio:11:1,733,792,thous$:32-42,44,thous:12-22,8,64,scale:1-5 2.2,scale:1-5 1.1,scale:1-5 1.6,Architecture;Art History;Sociology
+UC Santa Barbara College,Rhode Island,private,thous:14-16,ratio:45:55,ratio:15:1,741,766,thous$:25-31,68,thous:22-32,15,58,scale:1-5 2.6,scale:1-5 1.4,scale:1-5 2.0,Art History;Anthropology;Philosophy
+University of Brown,Delaware,public,thous:29-39,ratio:42:58,ratio:21:1,749,752,thous$:24-31,51,thous:50-50,5,45,scale:1-5 2.7,scale:1-5 2.4,scale:1-5 2.5,Agriculture
+Indiana,Florida,private,thous:7-14,ratio:42:58,ratio:11:1,705,781,thous$:39-52,57,thous:10-10,16,43,scale:1-5 2.3,scale:1-5 2.0,scale:1-5 1.9,Medicine
+Clemson State University,Iowa,public,thous:20-31,ratio:47:53,ratio:18:1,711,751,thous$:24-32,29,thous:36-50,8,64,scale:1-5 2.7,scale:1-5 1.0,scale:1-5 1.7,Medicine
+University of Maine,Kentucky,private,thous:4-8,ratio:58:42,ratio:11:1,744,729,thous$:32-38,72,thous:10-26,16,68,scale:1-5 2.1,scale:1-5 1.7,scale:1-5 2.5,Chemistry;Physics
+University of Pitt,North Dakota,public,thous:29-40,ratio:54:46,ratio:22:1,774,749,thous$:10-20,41,thous:56-50,15,45,scale:1-5 2.4,scale:1-5 2.1,scale:1-5 2.5,Education;Sociology;Political Science
+Mississippi,Kansas,public,thous:15-29,ratio:43:57,ratio:24:1,773,778,thous$:10-15,54,thous:28-40,8,55,scale:1-5 2.1,scale:1-5 1.7,scale:1-5 1.8,Chemistry;Sociology;Business Administration
+Kansas State University,Oklahoma,public,thous:29-36,ratio:49:51,ratio:15:1,688,709,thous$:15-21,46,thous:28-36,27,67,scale:1-5 1.2,scale:1-5 1.1,scale:1-5 2.0,Nursing;Drama
+University of Kansas State,Massachusetts,public,thous:17-22,ratio:57:43,ratio:24:1,679,719,thous$:21-26,33,thous:14-17,41,34,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.7,Music
+Binghamton College,Virginia,private,thous:5-10,ratio:54:46,ratio:14:1,716,683,thous$:32-41,43,thous:1-11,38,24,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.4,Business Administration;Medicine
+University of Montana,Montana,public,thous:17-23,ratio:40:60,ratio:24:1,691,699,thous$:13-20,25,thous:14-17,43,47,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.1,Mathematics;Philosophy;Physics
+Rhode Island,Nebraska,private,thous:7-10,ratio:53:47,ratio:12:1,668,638,thous$:27-32,36,thous:2-14,28,68,scale:1-5 1.0,scale:1-5 1.0,scale:1-5 1.0,Political Science
+University of Fordham,Nevada,private,thous:4-14,ratio:55:45,ratio:15:1,671,726,thous$:37-44,49,thous:1-12,36,38,scale:1-5 1.0,scale:1-5 1.1,scale:1-5 1.0,Anthropology;Education
+Alabama State University,New Jersey,private,thous:8-12,ratio:56:44,ratio:10:1,693,728,thous$:26-39,59,thous:4-17,23,47,scale:1-5 2.4,scale:1-5 1.3,scale:1-5 2.1,Biology;Business Administration;Architecture
+Boston U,Vermont,public,thous:9-17,ratio:58:42,ratio:19:1,653,674,thous$:16-22,25,thous:8-16,37,21,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.6,Philosophy;Economics;Anthropology
+UC Santa Barbara,Nebraska,private,thous:3-12,ratio:45:55,ratio:11:1,630,678,thous$:32-42,31,thous:1-6,28,65,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.7,Anthropology
+SMU State University,Delaware,private,thous:8-18,ratio:51:49,ratio:12:1,678,637,thous$:37-49,66,thous:3-15,20,64,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.9,Drama
+Nevada College,Mississippi,private,thous:15-24,ratio:56:44,ratio:13:1,689,664,thous$:37-42,37,thous:12-19,32,29,scale:1-5 1.6,scale:1-5 1.1,scale:1-5 1.7,Agriculture;Education;Philosophy
+New Hampshire State University,West Virginia,private,thous:13-20,ratio:47:53,ratio:14:1,638,623,thous$:40-53,73,thous:9-13,20,47,scale:1-5 1.1,scale:1-5 1.3,scale:1-5 1.6,Computer Science
+Buffalo College,Kentucky,public,thous:26-41,ratio:53:47,ratio:17:1,718,624,thous$:21-27,42,thous:21-30,48,46,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.0,Environmental Science
+Florida,North Carolina,public,thous:12-26,ratio:54:46,ratio:21:1,704,624,thous$:15-20,46,thous:9-17,45,22,scale:1-5 1.5,scale:1-5 1.5,scale:1-5 1.9,Anthropology
+William & Mary,Delaware,public,thous:9-23,ratio:40:60,ratio:22:1,637,637,thous$:12-21,41,thous:5-12,41,35,scale:1-5 1.7,scale:1-5 1.0,scale:1-5 1.0,Economics;Anthropology;Medicine
+University of Oregon,Georgia,public,thous:19-26,ratio:48:52,ratio:16:1,627,619,thous$:13-22,40,thous:16-22,41,36,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.5,Drama
+Georgia,Iowa,public,thous:26-34,ratio:43:57,ratio:16:1,683,712,thous$:22-29,33,thous:24-32,36,20,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.4,Business Administration;Music
+Villanova State University,Wyoming,private,thous:1-10,ratio:41:59,ratio:14:1,671,664,thous$:24-37,48,thous:1-16,27,69,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.9,Business Administration;Engineering;Nursing
+University of Boise State,South Dakota,private,thous:7-17,ratio:58:42,ratio:10:1,666,621,thous$:29-39,64,thous:5-17,36,43,scale:1-5 1.3,scale:1-5 1.2,scale:1-5 1.0,Agriculture;Medicine
+Yale,Nevada,private,thous:12-18,ratio:40:60,ratio:14:1,688,625,thous$:31-41,41,thous:8-16,28,58,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.2,Anthropology;Physics;Law
+University of Texas Tech,Colorado,public,thous:30-47,ratio:43:57,ratio:17:1,668,615,thous$:24-33,31,thous:28-37,42,29,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.1,Drama
+Notre Dame,New York,private,thous:15-21,ratio:49:51,ratio:11:1,642,648,thous$:38-48,74,thous:12-17,38,49,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.1,Drama
+San Jose State State University,California,public,thous:7-22,ratio:55:45,ratio:18:1,604,710,thous$:20-30,24,thous:3-6,40,50,scale:1-5 1.0,scale:1-5 1.4,scale:1-5 1.4,Nursing;Biology;Chemistry
+Purdue,Wyoming,private,thous:5-8,ratio:50:50,ratio:13:1,709,648,thous$:31-44,74,thous:1-4,50,48,scale:1-5 1.4,scale:1-5 1.3,scale:1-5 2.0,Physics;Agriculture;Environmental Science
+University of Maryland,Indiana,public,thous:12-19,ratio:53:47,ratio:23:1,617,620,thous$:21-28,49,thous:7-10,20,52,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.2,Business Administration
+UC Davis State University,Texas,public,thous:18-30,ratio:45:55,ratio:15:1,712,625,thous$:15-20,33,thous:17-28,40,39,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.7,Anthropology;Biology
+Montana State University,Texas,public,thous:27-39,ratio:55:45,ratio:25:1,613,668,thous$:18-28,60,thous:22-26,39,45,scale:1-5 1.2,scale:1-5 1.2,scale:1-5 1.0,Anthropology;Agriculture
+Caltech,Wyoming,public,thous:17-31,ratio:50:50,ratio:24:1,653,712,thous$:13-18,50,thous:15-23,48,40,scale:1-5 1.7,scale:1-5 1.5,scale:1-5 1.6,Anthropology
+University of Houston,Idaho,public,thous:10-17,ratio:60:40,ratio:17:1,711,666,thous$:22-27,34,thous:6-11,48,31,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.2,Drama;Environmental Science;Mathematics
+University of Santa Clara,South Dakota,private,thous:3-7,ratio:53:47,ratio:11:1,720,640,thous$:38-44,62,thous:1-11,42,42,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.0,Philosophy;Nursing;Music
+Oklahoma,New Mexico,public,thous:8-13,ratio:55:45,ratio:23:1,652,617,thous$:12-21,57,thous:3-17,46,23,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.0,Economics;Law
+University of Fresno State,Illinois,private,thous:13-15,ratio:53:47,ratio:15:1,658,704,thous$:36-48,33,thous:8-21,46,46,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 2.0,Political Science;Sociology
+West Virginia State University,Wyoming,private,thous:11-15,ratio:50:50,ratio:14:1,648,638,thous$:33-42,79,thous:10-16,50,30,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.1,Physics
+Rutgers,Tennessee,private,thous:2-10,ratio:54:46,ratio:14:1,606,673,thous$:39-45,34,thous:1-14,26,51,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.7,Biology
+TCU,Rhode Island,private,thous:9-14,ratio:55:45,ratio:12:1,631,658,thous$:36-51,45,thous:6-12,46,44,scale:1-5 1.5,scale:1-5 1.2,scale:1-5 1.0,Political Science;Chemistry
+UC Irvine State University,California,public,thous:28-37,ratio:46:54,ratio:22:1,688,702,thous$:15-20,56,thous:26-40,20,56,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.5,Nursing
+SMU,Connecticut,private,thous:6-15,ratio:40:60,ratio:10:1,680,643,thous$:37-49,34,thous:4-8,23,40,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.2,Computer Science;Communications;Medicine
+Stony Brook State University,Virginia,private,thous:2-6,ratio:54:46,ratio:13:1,681,697,thous$:24-39,60,thous:1-7,21,65,scale:1-5 1.7,scale:1-5 1.0,scale:1-5 1.0,Education;Agriculture
+Montana,Iowa,private,thous:1-5,ratio:52:48,ratio:10:1,675,721,thous$:37-52,32,thous:1-5,34,21,scale:1-5 1.0,scale:1-5 1.5,scale:1-5 1.5,Economics
+University of Carnegie Mellon,North Carolina,public,thous:9-23,ratio:41:59,ratio:19:1,681,634,thous$:11-16,33,thous:6-19,49,20,scale:1-5 1.2,scale:1-5 1.3,scale:1-5 1.0,Psychology;Computer Science;Philosophy
+Arizona,Georgia,private,thous:15-22,ratio:56:44,ratio:13:1,601,626,thous$:33-40,44,thous:13-18,31,23,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.5,Environmental Science;Computer Science
+North Dakota,Florida,private,thous:10-14,ratio:49:51,ratio:10:1,665,672,thous$:21-28,30,thous:6-20,41,33,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.4,Agriculture
+George Washington,Florida,private,thous:6-13,ratio:46:54,ratio:10:1,614,645,thous$:23-29,71,thous:5-17,40,27,scale:1-5 1.1,scale:1-5 1.3,scale:1-5 1.8,Chemistry;Communications;Physics
+University of Cincinnati,West Virginia,public,thous:5-15,ratio:50:50,ratio:23:1,663,720,thous$:14-21,22,thous:4-12,23,62,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.5,Music;Education
+UC Davis College,North Carolina,public,thous:12-17,ratio:42:58,ratio:16:1,720,670,thous$:25-35,22,thous:11-24,44,35,scale:1-5 1.1,scale:1-5 1.3,scale:1-5 1.1,Architecture;Philosophy;Anthropology
+USC,Colorado,public,thous:11-19,ratio:49:51,ratio:24:1,698,685,thous$:25-33,38,thous:7-14,30,48,scale:1-5 1.4,scale:1-5 1.2,scale:1-5 2.0,Anthropology
+UCLA,Rhode Island,public,thous:17-34,ratio:45:55,ratio:25:1,617,613,thous$:24-29,43,thous:12-15,38,26,scale:1-5 1.6,scale:1-5 1.3,scale:1-5 1.9,Sociology
+WashU,Iowa,public,thous:21-31,ratio:54:46,ratio:19:1,648,647,thous$:13-21,46,thous:20-26,47,47,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.7,Business Administration
+University of Washington,Connecticut,private,thous:8-18,ratio:48:52,ratio:10:1,686,715,thous$:35-45,71,thous:5-16,40,33,scale:1-5 2.2,scale:1-5 1.8,scale:1-5 2.4,Computer Science
+University of San Jose State,Massachusetts,private,thous:15-20,ratio:42:58,ratio:15:1,665,644,thous$:29-34,78,thous:14-21,45,37,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.0,Economics
+Nebraska State University,West Virginia,private,thous:15-21,ratio:58:42,ratio:12:1,660,726,thous$:23-32,34,thous:12-15,49,29,scale:1-5 1.2,scale:1-5 1.1,scale:1-5 1.9,Anthropology;Psychology
+University of New Mexico,Connecticut,public,thous:16-24,ratio:51:49,ratio:15:1,604,618,thous$:14-22,52,thous:12-26,29,43,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 2.0,Psychology;Engineering
+Georgia State University,Iowa,public,thous:8-14,ratio:52:48,ratio:24:1,705,730,thous$:20-25,22,thous:7-19,46,48,scale:1-5 2.4,scale:1-5 1.6,scale:1-5 3.0,Architecture
+Johns Hopkins,Louisiana,public,thous:29-35,ratio:43:57,ratio:25:1,693,697,thous$:17-23,54,thous:27-34,40,23,scale:1-5 1.6,scale:1-5 1.4,scale:1-5 1.1,Agriculture;Art History;Environmental Science
+Maine State University,Vermont,private,thous:4-14,ratio:50:50,ratio:12:1,663,613,thous$:38-46,31,thous:1-7,27,69,scale:1-5 1.4,scale:1-5 1.5,scale:1-5 1.4,Economics;Agriculture;Anthropology
+Temple State University,Mississippi,public,thous:27-37,ratio:42:58,ratio:18:1,616,703,thous$:12-17,46,thous:22-37,42,36,scale:1-5 1.4,scale:1-5 1.1,scale:1-5 1.0,Chemistry
+Cal Poly,Oregon,private,thous:8-14,ratio:49:51,ratio:14:1,630,712,thous$:31-45,43,thous:6-18,41,21,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.0,Communications;Mathematics;Architecture
+University of UC Santa Cruz,South Dakota,private,thous:1-11,ratio:47:53,ratio:15:1,612,616,thous$:31-37,67,thous:1-9,27,53,scale:1-5 1.3,scale:1-5 1.1,scale:1-5 1.1,Education;Environmental Science;Chemistry
+University of Villanova,Florida,public,thous:22-28,ratio:43:57,ratio:20:1,655,657,thous$:20-26,49,thous:20-29,21,46,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.1,Economics;Education
+University of Georgetown,Nebraska,public,thous:21-35,ratio:53:47,ratio:23:1,717,722,thous$:16-21,31,thous:19-25,37,30,scale:1-5 2.5,scale:1-5 2.1,scale:1-5 2.9,Architecture;Music;Philosophy
+University of Minnesota,Hawaii,public,thous:13-21,ratio:58:42,ratio:18:1,600,636,thous$:13-22,41,thous:12-17,38,49,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.3,Art History
+Wyoming College,Ohio,public,thous:25-36,ratio:51:49,ratio:16:1,657,615,thous$:18-24,45,thous:23-31,33,35,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.1,Music;Philosophy;Computer Science
+University of Texas,South Carolina,private,thous:15-20,ratio:49:51,ratio:12:1,631,679,thous$:37-46,65,thous:14-22,34,33,scale:1-5 1.0,scale:1-5 1.1,scale:1-5 1.0,Engineering
+Baylor,Indiana,public,thous:23-33,ratio:60:40,ratio:19:1,652,627,thous$:24-33,25,thous:18-33,27,48,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.9,Political Science
+Stanford,Oklahoma,private,thous:2-9,ratio:43:57,ratio:14:1,718,672,thous$:24-32,69,thous:1-12,46,30,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.7,Drama;Law
+Northeastern State University,Oklahoma,public,thous:13-20,ratio:60:40,ratio:19:1,622,620,thous$:19-28,39,thous:8-17,46,42,scale:1-5 1.5,scale:1-5 1.2,scale:1-5 1.4,Environmental Science;Law;Music
+Miami,Minnesota,private,thous:11-16,ratio:57:43,ratio:11:1,618,699,thous$:24-32,59,thous:6-13,31,45,scale:1-5 1.1,scale:1-5 1.2,scale:1-5 1.0,Psychology
+Minnesota,Oklahoma,public,thous:24-30,ratio:43:57,ratio:22:1,631,664,thous$:25-34,43,thous:22-30,24,52,scale:1-5 1.5,scale:1-5 1.1,scale:1-5 1.0,Art History;Computer Science;Anthropology
+University of Indiana,Nevada,private,thous:15-19,ratio:57:43,ratio:11:1,690,620,thous$:25-38,34,thous:12-19,44,25,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 2.0,Business Administration;Physics;Biology
+University of Tennessee,Massachusetts,private,thous:11-16,ratio:57:43,ratio:10:1,688,674,thous$:30-42,48,thous:9-13,46,28,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.2,Engineering
+Princeton,Vermont,private,thous:1-9,ratio:51:49,ratio:11:1,607,530,thous$:35-48,59,thous:1-4,60,41,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.8,Environmental Science;Education;Nursing
+Fordham State University,New Jersey,private,thous:4-14,ratio:52:48,ratio:11:1,594,556,thous$:27-34,52,thous:2-16,54,32,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.0,Chemistry;Art History;Nursing
+George Washington State University,Kentucky,private,thous:5-7,ratio:55:45,ratio:11:1,526,554,thous$:40-48,32,thous:2-6,63,24,scale:1-5 1.1,scale:1-5 1.3,scale:1-5 2.0,Anthropology;Communications;Chemistry
+LSU State University,South Dakota,public,thous:14-34,ratio:59:41,ratio:15:1,617,590,thous$:24-30,53,thous:10-13,50,28,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.4,Chemistry
+University of South Carolina,Oregon,public,thous:9-21,ratio:52:48,ratio:19:1,504,531,thous$:25-30,60,thous:4-12,80,42,scale:1-5 1.6,scale:1-5 1.4,scale:1-5 1.0,Music
+Fresno State State University,Delaware,private,thous:1-10,ratio:57:43,ratio:12:1,511,616,thous$:27-39,76,thous:1-16,61,44,scale:1-5 1.7,scale:1-5 1.0,scale:1-5 1.0,Business Administration;Environmental Science;Education
+University of Tufts,New Hampshire,private,thous:13-20,ratio:59:41,ratio:10:1,581,599,thous$:27-37,60,thous:8-17,62,28,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 2.0,Physics;Biology;Sociology
+Missouri State University,Idaho,public,thous:22-33,ratio:60:40,ratio:25:1,523,536,thous$:10-16,50,thous:20-23,52,45,scale:1-5 1.0,scale:1-5 1.0,scale:1-5 1.0,English Literature
+Oklahoma State State University,Michigan,public,thous:12-24,ratio:42:58,ratio:24:1,567,629,thous$:23-28,34,thous:9-20,52,42,scale:1-5 1.3,scale:1-5 1.2,scale:1-5 1.1,Nursing;Art History;Law
+Fresno State,Nebraska,public,thous:13-33,ratio:49:51,ratio:15:1,581,603,thous$:21-26,53,thous:11-17,58,45,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.2,Computer Science
+University of Chicago,Wisconsin,public,thous:9-14,ratio:51:49,ratio:23:1,545,625,thous$:15-25,58,thous:5-11,52,31,scale:1-5 1.2,scale:1-5 1.4,scale:1-5 1.4,Drama;Chemistry
+Vermont College,Nebraska,public,thous:27-47,ratio:59:41,ratio:17:1,606,541,thous$:23-30,26,thous:25-40,78,35,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.0,Music;Psychology
+University of Harvard,Minnesota,private,thous:9-16,ratio:55:45,ratio:11:1,596,560,thous$:32-42,68,thous:7-18,90,47,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.0,Political Science;Agriculture;Business Administration
+Boise State,Wyoming,private,thous:5-12,ratio:57:43,ratio:11:1,504,518,thous$:39-53,36,thous:1-4,85,38,scale:1-5 1.0,scale:1-5 1.0,scale:1-5 1.5,Medicine
+Auburn State University,Utah,public,thous:30-49,ratio:47:53,ratio:21:1,597,545,thous$:24-29,27,thous:29-40,47,29,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.3,English Literature;Law
+Boston College,Maryland,private,thous:7-17,ratio:46:54,ratio:11:1,582,519,thous$:40-53,52,thous:5-19,49,46,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.0,Agriculture;Law;Computer Science
+Houston State University,Idaho,public,thous:16-24,ratio:59:41,ratio:17:1,564,601,thous$:22-31,27,thous:13-16,50,28,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.4,Political Science;Anthropology
+Oregon State University,Alabama,private,thous:4-8,ratio:42:58,ratio:10:1,597,622,thous$:31-38,76,thous:2-11,95,45,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.9,Economics;Medicine;Law
+Iowa State State University,Indiana,public,thous:29-46,ratio:48:52,ratio:20:1,516,594,thous$:23-28,35,thous:25-36,61,40,scale:1-5 1.3,scale:1-5 1.3,scale:1-5 1.1,Music
+University of UC Riverside,Vermont,public,thous:11-20,ratio:50:50,ratio:19:1,559,594,thous$:22-30,24,thous:6-20,68,23,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.7,Drama;English Literature
+University of San Diego State,Nevada,private,thous:5-10,ratio:49:51,ratio:11:1,588,607,thous$:38-44,65,thous:2-15,72,36,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.3,Architecture;Sociology;Law
+University of Vermont,Ohio,public,thous:15-26,ratio:59:41,ratio:16:1,587,554,thous$:19-28,52,thous:13-18,60,22,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.8,Communications;Business Administration
+American,Oklahoma,public,thous:25-41,ratio:51:49,ratio:22:1,562,555,thous$:18-28,24,thous:23-37,73,30,scale:1-5 1.2,scale:1-5 1.3,scale:1-5 1.0,Architecture;Nursing;Mathematics
+Arkansas,South Dakota,public,thous:27-40,ratio:54:46,ratio:23:1,589,575,thous$:23-33,21,thous:22-32,58,22,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.0,Medicine
+UC Santa Cruz State University,Alabama,private,thous:7-17,ratio:43:57,ratio:12:1,616,553,thous$:32-37,55,thous:2-8,61,49,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.0,Business Administration;Architecture
+San Diego State State University,Oregon,private,thous:7-17,ratio:46:54,ratio:12:1,593,534,thous$:20-26,64,thous:6-17,41,38,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.2,Psychology;Chemistry
+South Dakota State University,Missouri,public,thous:11-29,ratio:44:56,ratio:15:1,506,620,thous$:21-28,43,thous:6-15,66,24,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.2,Sociology;Communications;Chemistry
+Case Western,Massachusetts,public,thous:30-49,ratio:43:57,ratio:15:1,575,521,thous$:20-26,28,thous:26-36,69,27,scale:1-5 1.5,scale:1-5 1.2,scale:1-5 1.7,Business Administration;Environmental Science;Sociology
+Texas A&M State University,Mississippi,public,thous:23-31,ratio:59:41,ratio:24:1,531,536,thous$:23-29,56,thous:21-31,58,22,scale:1-5 1.7,scale:1-5 1.2,scale:1-5 1.6,Education;Chemistry;Business Administration
+University of Caltech,Idaho,private,thous:7-12,ratio:53:47,ratio:13:1,519,523,thous$:20-25,59,thous:5-13,91,43,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.0,Law
+University of Cal Poly,Pennsylvania,public,thous:20-31,ratio:50:50,ratio:16:1,558,535,thous$:11-19,22,thous:19-23,52,23,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.6,Mathematics;Music
+UC San Diego State University,Louisiana,public,thous:29-43,ratio:54:46,ratio:15:1,560,630,thous$:25-35,38,thous:24-36,90,32,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.0,Computer Science;Education
+Carnegie Mellon,North Carolina,private,thous:12-22,ratio:47:53,ratio:12:1,526,619,thous$:39-49,48,thous:10-23,67,24,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.0,Art History;Communications
+Cal Poly College,North Dakota,private,thous:1-7,ratio:49:51,ratio:15:1,610,533,thous$:29-41,80,thous:1-10,77,31,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.0,Engineering;Chemistry;Sociology
+Maine College,Arizona,private,thous:14-20,ratio:55:45,ratio:15:1,577,526,thous$:23-32,34,thous:13-16,72,33,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.3,Environmental Science
+Stony Brook College,North Carolina,private,thous:1-3,ratio:50:50,ratio:10:1,527,555,thous$:33-43,66,thous:1-7,65,47,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.0,Medicine;Music
+University of Boston U,Indiana,private,thous:12-21,ratio:54:46,ratio:13:1,526,560,thous$:24-38,42,thous:9-18,74,22,scale:1-5 1.0,scale:1-5 1.0,scale:1-5 1.0,Computer Science;Biology;Political Science
+Lehigh,Kansas,public,thous:23-38,ratio:41:59,ratio:22:1,605,620,thous$:18-28,24,thous:22-34,61,46,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.6,Chemistry;Nursing;Economics
+University of Tulane,North Dakota,public,thous:8-26,ratio:47:53,ratio:22:1,587,586,thous$:17-26,21,thous:6-10,91,28,scale:1-5 1.3,scale:1-5 1.5,scale:1-5 1.0,Sociology;Physics
+Maine,Connecticut,private,thous:10-15,ratio:43:57,ratio:14:1,605,580,thous$:25-30,63,thous:6-18,54,23,scale:1-5 1.7,scale:1-5 1.0,scale:1-5 1.0,Communications
+University of Ohio State,Arkansas,private,thous:12-21,ratio:58:42,ratio:12:1,573,532,thous$:38-48,77,thous:11-22,49,37,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.0,Psychology
+Arizona State,Pennsylvania,public,thous:16-22,ratio:52:48,ratio:21:1,544,588,thous$:11-18,54,thous:14-23,74,37,scale:1-5 1.0,scale:1-5 1.0,scale:1-5 1.2,Economics
+New Hampshire,Hawaii,public,thous:21-26,ratio:60:40,ratio:25:1,560,622,thous$:19-29,53,thous:18-28,48,22,scale:1-5 1.4,scale:1-5 1.1,scale:1-5 1.0,Law;Psychology;Education
+University of Syracuse,Wisconsin,public,thous:19-31,ratio:53:47,ratio:25:1,577,599,thous$:15-20,60,thous:14-19,42,27,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.0,Drama;Nursing
+University of Columbia,Wisconsin,public,thous:6-24,ratio:45:55,ratio:23:1,504,622,thous$:22-31,49,thous:4-11,62,28,scale:1-5 1.7,scale:1-5 1.0,scale:1-5 1.1,Political Science;Engineering
+University of MIT,Maine,public,thous:26-33,ratio:52:48,ratio:17:1,615,518,thous$:13-21,32,thous:25-33,90,37,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 2.0,Anthropology
+University of WashU,New York,public,thous:21-39,ratio:41:59,ratio:24:1,513,559,thous$:22-31,45,thous:18-32,65,26,scale:1-5 1.4,scale:1-5 1.2,scale:1-5 1.6,English Literature;Economics;Education
+University of Wake Forest,Montana,public,thous:27-35,ratio:40:60,ratio:20:1,559,606,thous$:10-16,40,thous:22-31,94,26,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.7,Education;Chemistry;Political Science
+Wyoming State University,Alabama,public,thous:30-42,ratio:47:53,ratio:17:1,504,577,thous$:14-20,29,thous:29-34,48,33,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.1,Biology;Mathematics
+American State University,Maryland,public,thous:18-35,ratio:43:57,ratio:19:1,575,605,thous$:12-19,44,thous:17-32,74,37,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.2,Physics;Communications
+Colorado,Florida,public,thous:13-21,ratio:52:48,ratio:24:1,606,552,thous$:11-21,29,thous:12-21,81,34,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 2.0,Communications
+Mississippi State College,Texas,public,thous:7-22,ratio:55:45,ratio:20:1,544,566,thous$:11-20,56,thous:2-11,51,33,scale:1-5 1.7,scale:1-5 1.0,scale:1-5 1.0,English Literature;Nursing
+University of Buffalo,Montana,public,thous:25-32,ratio:40:60,ratio:16:1,613,607,thous$:14-22,36,thous:21-32,79,36,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.6,Physics;Engineering;Business Administration
+Buffalo,Florida,private,thous:6-16,ratio:54:46,ratio:15:1,563,515,thous$:21-36,46,thous:5-14,61,49,scale:1-5 1.5,scale:1-5 1.2,scale:1-5 1.0,Nursing;Education;Biology
+RPI State University,Maine,private,thous:1-9,ratio:52:48,ratio:15:1,584,566,thous$:28-40,59,thous:1-5,80,46,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.4,Economics;Art History
+University of Lehigh,Kansas,public,thous:11-26,ratio:46:54,ratio:21:1,507,618,thous$:25-32,32,thous:7-22,89,32,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.0,Chemistry;Education
+University of William & Mary,Iowa,private,thous:6-9,ratio:43:57,ratio:12:1,556,607,thous$:28-40,42,thous:3-8,81,42,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.7,Communications;Drama
+University of Cornell,California,public,thous:28-37,ratio:44:56,ratio:24:1,527,591,thous$:12-22,39,thous:24-33,91,20,scale:1-5 1.7,scale:1-5 1.0,scale:1-5 1.5,Physics;Chemistry
+San Diego State,Michigan,public,thous:9-27,ratio:41:59,ratio:16:1,526,584,thous$:11-21,42,thous:6-17,45,32,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.0,Communications;Psychology;Engineering
+University of Long Beach State,Kentucky,private,thous:11-18,ratio:53:47,ratio:10:1,586,538,thous$:20-31,67,thous:6-21,45,21,scale:1-5 1.1,scale:1-5 1.4,scale:1-5 1.8,Environmental Science;Nursing
+University of Connecticut,Kansas,private,thous:1-5,ratio:42:58,ratio:14:1,580,599,thous$:29-38,70,thous:1-10,84,23,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.7,Education;Business Administration;Political Science
+University of Johns Hopkins,New Mexico,private,thous:7-12,ratio:40:60,ratio:15:1,511,616,thous$:27-34,67,thous:3-15,54,40,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.7,Drama
+WPI,Georgia,public,thous:25-45,ratio:40:60,ratio:21:1,541,602,thous$:13-21,29,thous:23-35,51,37,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.4,Economics;Chemistry
+Arkansas State University,Rhode Island,private,thous:12-18,ratio:48:52,ratio:12:1,561,616,thous$:38-43,75,thous:11-20,61,21,scale:1-5 1.0,scale:1-5 1.0,scale:1-5 1.5,English Literature;Art History;Mathematics
+University of Albany,Iowa,private,thous:3-10,ratio:40:60,ratio:11:1,584,553,thous$:40-48,63,thous:1-8,68,42,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.3,Education
+University of Illinois,Kansas,private,thous:3-12,ratio:43:57,ratio:14:1,536,600,thous$:30-44,71,thous:1-10,70,28,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.8,Communications;Political Science
+Idaho College,Illinois,private,thous:12-14,ratio:60:40,ratio:13:1,602,618,thous$:27-36,32,thous:8-17,86,47,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.8,Music;Business Administration
+Vermont,New Hampshire,public,thous:28-39,ratio:43:57,ratio:22:1,509,580,thous$:16-22,32,thous:23-30,45,37,scale:1-5 1.7,scale:1-5 1.0,scale:1-5 1.8,Communications;Music;Agriculture
+UC Santa Cruz College,Utah,public,thous:14-25,ratio:59:41,ratio:24:1,541,595,thous$:25-34,53,thous:11-16,68,41,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.7,Agriculture;Anthropology;Law
+University of UC Davis,North Dakota,public,thous:28-40,ratio:51:49,ratio:24:1,540,617,thous$:10-18,41,thous:23-38,66,28,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.8,Architecture
+Nevada State University,New Mexico,public,thous:20-39,ratio:59:41,ratio:25:1,597,538,thous$:22-28,56,thous:17-29,80,34,scale:1-5 1.7,scale:1-5 1.0,scale:1-5 2.0,Art History
+Virginia,Vermont,private,thous:5-15,ratio:53:47,ratio:13:1,504,531,thous$:20-31,42,thous:1-9,80,39,scale:1-5 1.0,scale:1-5 1.1,scale:1-5 1.5,Drama;Chemistry
+West Virginia College,North Carolina,public,thous:23-33,ratio:43:57,ratio:18:1,501,579,thous$:18-25,20,thous:19-24,73,39,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.0,Agriculture;Law;Architecture
+University of Nebraska,Delaware,private,thous:13-15,ratio:56:44,ratio:11:1,600,602,thous$:38-43,59,thous:12-20,68,31,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.0,Nursing;Economics
+Tennessee,Kentucky,private,thous:10-14,ratio:50:50,ratio:12:1,540,553,thous$:36-43,49,thous:8-16,64,27,scale:1-5 1.5,scale:1-5 1.2,scale:1-5 1.0,Environmental Science;Engineering;Nursing
+Kentucky State University,Kentucky,private,thous:4-8,ratio:49:51,ratio:14:1,618,510,thous$:24-33,43,thous:1-8,90,43,scale:1-5 1.4,scale:1-5 1.1,scale:1-5 1.2,Anthropology
+University of Rice,Wisconsin,private,thous:9-13,ratio:43:57,ratio:11:1,526,540,thous$:35-40,43,thous:8-22,82,49,scale:1-5 1.7,scale:1-5 1.0,scale:1-5 1.8,Engineering
+Santa Clara,Washington,private,thous:5-14,ratio:56:44,ratio:10:1,573,546,thous$:23-38,74,thous:1-7,93,31,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.7,Architecture
+University of BYU,Connecticut,private,thous:1-10,ratio:41:59,ratio:13:1,542,534,thous$:33-38,61,thous:1-5,50,36,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.1,Mathematics
+New Mexico,Rhode Island,public,thous:25-41,ratio:45:55,ratio:24:1,583,619,thous$:18-25,23,thous:21-35,53,30,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.0,Political Science
+Cal Poly State University,Tennessee,private,thous:12-18,ratio:49:51,ratio:11:1,594,578,thous$:23-29,69,thous:9-24,49,26,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.0,Medicine;Mathematics;Nursing
+University of Georgia Tech,Connecticut,public,thous:26-34,ratio:48:52,ratio:20:1,549,537,thous$:19-24,34,thous:23-36,95,20,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.1,Biology;Drama;Mathematics
+Texas A&M,Tennessee,public,thous:12-23,ratio:44:56,ratio:18:1,545,542,thous$:21-29,38,thous:7-15,95,29,scale:1-5 1.0,scale:1-5 1.0,scale:1-5 1.0,Psychology;Medicine
+University of Princeton,Virginia,public,thous:27-42,ratio:53:47,ratio:21:1,511,552,thous$:16-24,42,thous:24-28,79,39,scale:1-5 1.6,scale:1-5 1.4,scale:1-5 1.1,Music;Agriculture
+University of RPI,New Mexico,private,thous:2-11,ratio:45:55,ratio:10:1,571,622,thous$:22-29,70,thous:1-9,76,37,scale:1-5 1.6,scale:1-5 1.2,scale:1-5 1.4,Engineering;Computer Science;Medicine
+Boise State College,Missouri,public,thous:18-23,ratio:47:53,ratio:18:1,576,551,thous$:19-27,45,thous:17-23,68,46,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.0,Chemistry
+University of WPI,Rhode Island,private,thous:8-13,ratio:48:52,ratio:10:1,576,538,thous$:30-37,74,thous:4-19,85,22,scale:1-5 1.2,scale:1-5 1.1,scale:1-5 1.6,Architecture
+Penn State,Maryland,public,thous:8-17,ratio:53:47,ratio:24:1,506,612,thous$:16-24,21,thous:6-13,92,34,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 2.0,Sociology;Mathematics
+Stevens,Michigan,private,thous:7-11,ratio:55:45,ratio:10:1,585,534,thous$:23-28,66,thous:6-19,79,42,scale:1-5 1.1,scale:1-5 1.3,scale:1-5 1.4,Philosophy
+San Jose State College,Alaska,private,thous:9-15,ratio:51:49,ratio:11:1,512,544,thous$:28-33,78,thous:7-12,77,28,scale:1-5 1.6,scale:1-5 1.4,scale:1-5 1.3,Environmental Science
+University of UNC,Illinois,private,thous:14-19,ratio:43:57,ratio:15:1,538,596,thous$:26-38,32,thous:9-12,54,26,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.1,Psychology
+UC San Diego,South Carolina,private,thous:8-13,ratio:56:44,ratio:14:1,580,565,thous$:33-48,37,thous:5-12,86,37,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.5,Economics;Engineering
+Virginia Tech State University,Iowa,public,thous:16-36,ratio:44:56,ratio:18:1,510,576,thous$:11-19,33,thous:13-21,92,44,scale:1-5 1.0,scale:1-5 1.0,scale:1-5 1.0,Economics;Agriculture;Psychology
+University of Boston College,New York,private,thous:3-13,ratio:57:43,ratio:13:1,547,625,thous$:27-42,40,thous:2-15,43,28,scale:1-5 1.5,scale:1-5 1.1,scale:1-5 1.0,Chemistry;Agriculture;Law
+Case Western State University,Illinois,private,thous:1-8,ratio:56:44,ratio:13:1,520,526,thous$:29-41,50,thous:1-7,61,36,scale:1-5 1.7,scale:1-5 1.3,scale:1-5 1.0,Psychology;Political Science
+Utah State University,Alabama,public,thous:17-24,ratio:43:57,ratio:15:1,568,605,thous$:25-33,39,thous:16-24,41,46,scale:1-5 1.3,scale:1-5 1.3,scale:1-5 1.0,Architecture;Business Administration
+Iowa,Tennessee,public,thous:27-37,ratio:57:43,ratio:19:1,610,610,thous$:21-27,32,thous:23-27,69,24,scale:1-5 1.6,scale:1-5 1.1,scale:1-5 1.1,Mathematics
+University of Stony Brook,Idaho,public,thous:27-40,ratio:57:43,ratio:17:1,519,517,thous$:15-20,23,thous:22-31,92,37,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.9,Physics;Environmental Science;Drama
+Maryland,New York,public,thous:11-22,ratio:54:46,ratio:20:1,532,560,thous$:12-19,59,thous:9-13,88,40,scale:1-5 1.1,scale:1-5 1.2,scale:1-5 1.5,Architecture;Agriculture;Music
+University of Penn State,South Dakota,public,thous:11-21,ratio:46:54,ratio:22:1,591,546,thous$:10-19,34,thous:10-20,75,30,scale:1-5 1.2,scale:1-5 1.5,scale:1-5 1.9,Economics
+Syracuse,West Virginia,private,thous:15-17,ratio:55:45,ratio:11:1,545,585,thous$:29-40,66,thous:11-23,65,41,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.6,Philosophy;English Literature
+University of Mississippi State,Oklahoma,private,thous:6-8,ratio:41:59,ratio:15:1,519,573,thous$:35-42,64,thous:5-8,89,25,scale:1-5 1.5,scale:1-5 1.3,scale:1-5 2.0,Education;Anthropology
+UMass,Hawaii,public,thous:11-27,ratio:45:55,ratio:23:1,587,553,thous$:18-23,34,thous:8-15,71,29,scale:1-5 1.4,scale:1-5 1.2,scale:1-5 1.8,Music;Medicine;Art History
+Boston U State University,Maine,private,thous:1-10,ratio:47:53,ratio:14:1,543,543,thous$:38-46,55,thous:1-10,43,45,scale:1-5 1.2,scale:1-5 1.4,scale:1-5 1.9,Chemistry;Law
+Colorado State University,Mississippi,private,thous:4-13,ratio:53:47,ratio:15:1,501,621,thous$:39-47,62,thous:1-15,67,26,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.2,Education
+University of Mississippi,Idaho,private,thous:3-6,ratio:49:51,ratio:14:1,586,526,thous$:40-53,80,thous:1-5,84,25,scale:1-5 1.7,scale:1-5 1.0,scale:1-5 1.0,Computer Science
+University of Arizona,Hawaii,private,thous:4-10,ratio:51:49,ratio:10:1,555,604,thous$:31-45,55,thous:3-15,65,22,scale:1-5 1.6,scale:1-5 1.4,scale:1-5 1.0,Psychology;Political Science
+New Mexico State University,Georgia,private,thous:13-23,ratio:45:55,ratio:10:1,513,615,thous$:22-37,57,thous:11-19,70,21,scale:1-5 1.0,scale:1-5 1.2,scale:1-5 1.0,Mathematics
+WPI State University,Montana,private,thous:10-12,ratio:47:53,ratio:12:1,533,626,thous$:35-45,59,thous:7-21,62,32,scale:1-5 1.0,scale:1-5 1.1,scale:1-5 1.6,Art History;Biology;Economics
+Albany,Maryland,private,thous:10-18,ratio:56:44,ratio:12:1,598,588,thous$:36-50,71,thous:8-18,91,47,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.0,Economics
+Georgia Tech,Texas,public,thous:5-24,ratio:59:41,ratio:15:1,510,535,thous$:15-25,57,thous:1-4,84,30,scale:1-5 1.3,scale:1-5 1.4,scale:1-5 1.9,Sociology;Art History
+UC Irvine College,North Carolina,private,thous:11-20,ratio:41:59,ratio:14:1,606,549,thous$:22-36,38,thous:6-19,46,31,scale:1-5 1.2,scale:1-5 1.3,scale:1-5 1.0,Psychology
+University of Northwestern,Oregon,public,thous:16-21,ratio:40:60,ratio:17:1,542,628,thous$:23-28,31,thous:15-21,90,45,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 2.0,Engineering;Music
+Mississippi State University,New Jersey,private,thous:3-12,ratio:50:50,ratio:13:1,502,572,thous$:27-36,68,thous:1-5,44,20,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.5,Art History
+University of New Hampshire,Wyoming,public,thous:28-36,ratio:60:40,ratio:18:1,524,589,thous$:12-21,38,thous:26-36,61,48,scale:1-5 1.2,scale:1-5 1.3,scale:1-5 1.2,Physics;Engineering;Economics
+Virginia Tech,Kansas,public,thous:8-19,ratio:41:59,ratio:21:1,502,566,thous$:11-19,54,thous:3-17,44,27,scale:1-5 1.5,scale:1-5 1.4,scale:1-5 1.3,English Literature;Business Administration;Medicine
+UC Riverside,Vermont,private,thous:6-11,ratio:46:54,ratio:11:1,572,591,thous$:31-36,34,thous:1-14,42,42,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.4,Political Science;Sociology;Art History
+University of Purdue,Oregon,public,thous:7-24,ratio:56:44,ratio:19:1,556,596,thous$:22-32,33,thous:2-6,55,44,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.4,Music;Environmental Science;English Literature
+Duke,Virginia,private,thous:1-7,ratio:45:55,ratio:11:1,522,528,thous$:27-40,38,thous:1-6,50,36,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.5,Chemistry;Medicine;Physics
+Arizona State State University,New Mexico,private,thous:14-21,ratio:46:54,ratio:12:1,582,592,thous$:21-30,44,thous:10-23,80,24,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.1,Physics;Sociology;Medicine
+University of UC San Diego,New Hampshire,private,thous:12-18,ratio:52:48,ratio:14:1,509,570,thous$:28-33,33,thous:7-12,53,34,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.0,English Literature;Music;Mathematics
+Georgetown,Massachusetts,private,thous:9-14,ratio:60:40,ratio:15:1,566,580,thous$:35-50,61,thous:4-13,70,37,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.0,Economics
+UC Riverside College,Idaho,private,thous:7-10,ratio:52:48,ratio:12:1,610,606,thous$:21-32,44,thous:3-11,50,33,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.0,Economics;Anthropology;Music
+University of Baylor,Georgia,private,thous:8-16,ratio:52:48,ratio:11:1,571,545,thous$:23-35,30,thous:3-10,87,29,scale:1-5 1.7,scale:1-5 1.0,scale:1-5 1.0,Chemistry
+University of Dartmouth,Wisconsin,private,thous:10-17,ratio:59:41,ratio:15:1,535,590,thous$:24-35,34,thous:9-13,47,23,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.3,Computer Science;Communications
+Delaware College,Maryland,private,thous:11-18,ratio:55:45,ratio:14:1,552,596,thous$:35-45,76,thous:9-16,86,20,scale:1-5 1.2,scale:1-5 1.1,scale:1-5 1.8,Drama
+Washington,North Dakota,public,thous:26-39,ratio:49:51,ratio:22:1,540,513,thous$:22-28,59,thous:22-27,95,25,scale:1-5 1.5,scale:1-5 1.1,scale:1-5 1.0,Art History;Architecture
+University of Louisville,Tennessee,public,thous:17-30,ratio:44:56,ratio:23:1,535,546,thous$:11-19,48,thous:14-29,77,36,scale:1-5 1.6,scale:1-5 1.3,scale:1-5 1.0,Law;Computer Science
+University of Binghamton,Georgia,private,thous:4-8,ratio:58:42,ratio:10:1,612,608,thous$:32-47,43,thous:1-12,54,34,scale:1-5 1.4,scale:1-5 1.4,scale:1-5 1.2,Political Science
+Long Beach State State University,North Dakota,private,thous:12-15,ratio:40:60,ratio:15:1,613,513,thous$:25-39,77,thous:9-15,91,20,scale:1-5 1.2,scale:1-5 1.1,scale:1-5 1.0,Psychology
+Wisconsin,North Dakota,public,thous:9-24,ratio:59:41,ratio:22:1,538,534,thous$:24-33,24,thous:5-16,86,30,scale:1-5 1.5,scale:1-5 1.2,scale:1-5 1.7,Anthropology
+NC State State University,Utah,public,thous:10-15,ratio:56:44,ratio:24:1,592,623,thous$:15-21,51,thous:9-18,76,42,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.3,Philosophy;Architecture;Economics
+University of UC Irvine,Alabama,public,thous:16-25,ratio:53:47,ratio:16:1,602,604,thous$:23-32,47,thous:14-17,94,42,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.7,Biology;Physics
+Louisville,Delaware,public,thous:10-17,ratio:47:53,ratio:25:1,603,628,thous$:10-16,33,thous:6-15,90,38,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.8,Business Administration
+University of American,Montana,private,thous:10-12,ratio:58:42,ratio:15:1,598,546,thous$:31-46,53,thous:9-12,56,38,scale:1-5 1.4,scale:1-5 1.5,scale:1-5 1.0,Economics;Engineering;Biology
+University of Florida,Rhode Island,public,thous:10-26,ratio:41:59,ratio:19:1,598,520,thous$:14-23,37,thous:6-14,76,26,scale:1-5 1.0,scale:1-5 1.0,scale:1-5 1.6,Medicine
+University of SMU,Montana,private,thous:8-15,ratio:42:58,ratio:15:1,601,559,thous$:38-50,60,thous:3-13,40,44,scale:1-5 1.0,scale:1-5 1.0,scale:1-5 1.3,Medicine
+University of Delaware,North Carolina,public,thous:7-18,ratio:42:58,ratio:16:1,540,526,thous$:25-31,38,thous:4-19,42,46,scale:1-5 1.1,scale:1-5 1.1,scale:1-5 1.0,Agriculture;Mathematics
+San Diego State College,Mississippi,private,thous:13-19,ratio:45:55,ratio:12:1,513,598,thous$:34-48,44,thous:9-15,65,26,scale:1-5 1.2,scale:1-5 1.4,scale:1-5 1.3,Education;Philosophy
+University of UMass,Ohio,public,thous:19-29,ratio:45:55,ratio:21:1,534,580,thous$:11-16,43,thous:16-26,44,22,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.1,Agriculture
+University of Northeastern,North Dakota,private,thous:7-9,ratio:50:50,ratio:10:1,575,514,thous$:31-41,31,thous:5-11,66,33,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.7,Engineering;Music;Drama
+Oklahoma State,Connecticut,public,thous:20-31,ratio:54:46,ratio:17:1,534,561,thous$:14-21,35,thous:18-28,69,35,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.0,Anthropology
+Kansas State State University,Georgia,private,thous:9-16,ratio:43:57,ratio:12:1,611,581,thous$:37-48,41,thous:8-21,68,46,scale:1-5 1.0,scale:1-5 1.1,scale:1-5 1.0,Physics;Medicine
+BYU,Georgia,public,thous:24-37,ratio:60:40,ratio:22:1,599,572,thous$:10-15,41,thous:23-38,89,34,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.0,Anthropology
+Texas Tech,Oklahoma,public,thous:14-29,ratio:46:54,ratio:17:1,576,593,thous$:25-32,51,thous:10-13,82,47,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 2.0,Anthropology;Nursing
+University of Hawaii,North Carolina,private,thous:2-8,ratio:56:44,ratio:11:1,602,627,thous$:22-37,56,thous:1-13,72,23,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.2,Communications;Law
+South Carolina State University,Arkansas,private,thous:8-13,ratio:45:55,ratio:14:1,600,558,thous$:35-48,78,thous:6-14,79,43,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.0,Chemistry;Physics
+North Dakota State University,New Jersey,private,thous:12-14,ratio:55:45,ratio:11:1,509,522,thous$:36-42,44,thous:8-16,79,20,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.5,Agriculture;Drama
+University of Virginia Tech,Missouri,public,thous:17-33,ratio:58:42,ratio:18:1,542,629,thous$:14-23,60,thous:12-19,44,46,scale:1-5 1.5,scale:1-5 1.4,scale:1-5 1.0,Law
+University of LSU,Oregon,public,thous:27-33,ratio:52:48,ratio:15:1,539,604,thous$:20-25,44,thous:26-35,84,41,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.0,Engineering;Communications
+Tulane,Missouri,public,thous:25-44,ratio:43:57,ratio:19:1,528,606,thous$:18-23,40,thous:21-25,50,39,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 2.0,Architecture;Philosophy
+University of Texas A&M,Montana,public,thous:28-48,ratio:49:51,ratio:18:1,528,544,thous$:17-25,36,thous:23-29,72,23,scale:1-5 1.7,scale:1-5 1.4,scale:1-5 1.0,Physics;Music;English Literature
+University of Wisconsin,Maryland,private,thous:12-17,ratio:48:52,ratio:10:1,618,549,thous$:36-41,34,thous:10-17,57,42,scale:1-5 1.7,scale:1-5 1.0,scale:1-5 1.4,Environmental Science
+UMass State University,Iowa,public,thous:17-30,ratio:46:54,ratio:22:1,545,569,thous$:16-21,42,thous:14-23,42,49,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.0,Business Administration;Agriculture;Political Science
+Rhode Island College,Wisconsin,public,thous:7-26,ratio:55:45,ratio:19:1,551,617,thous$:16-23,33,thous:2-17,54,33,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.7,Art History
+University of North Dakota,South Carolina,private,thous:2-8,ratio:46:54,ratio:12:1,586,579,thous$:40-47,34,thous:1-10,61,43,scale:1-5 1.3,scale:1-5 1.2,scale:1-5 1.0,Architecture
+Northeastern,Iowa,public,thous:15-31,ratio:52:48,ratio:24:1,549,544,thous$:17-24,53,thous:13-26,76,48,scale:1-5 1.5,scale:1-5 1.2,scale:1-5 1.4,Communications;English Literature
+University of Wyoming,Vermont,private,thous:5-7,ratio:60:40,ratio:15:1,521,597,thous$:20-35,37,thous:3-12,67,36,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 2.0,Physics;Architecture;Law
+University of Berkeley,Washington,public,thous:28-36,ratio:59:41,ratio:24:1,503,571,thous$:18-27,53,thous:27-35,91,43,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.0,Drama;Physics
+University of Pepperdine,North Carolina,public,thous:21-31,ratio:45:55,ratio:21:1,547,525,thous$:23-33,52,thous:17-21,83,30,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.0,Chemistry;Drama;Engineering
+Oregon,Vermont,private,thous:11-16,ratio:49:51,ratio:15:1,568,539,thous$:33-41,55,thous:7-13,44,24,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.0,Education;Drama
+University of Duke,New Mexico,public,thous:11-24,ratio:50:50,ratio:15:1,513,542,thous$:16-25,27,thous:9-13,84,41,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.9,English Literature;Communications;Engineering
+University of Case Western,Illinois,public,thous:17-33,ratio:44:56,ratio:15:1,525,577,thous$:17-22,38,thous:16-23,62,32,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.3,Art History;Biology
+Mississippi State State University,Oklahoma,public,thous:30-40,ratio:52:48,ratio:23:1,592,615,thous$:22-27,45,thous:29-36,86,21,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.0,Education
+Emory,Wyoming,private,thous:3-7,ratio:47:53,ratio:14:1,515,593,thous$:29-43,62,thous:1-14,82,38,scale:1-5 1.6,scale:1-5 1.3,scale:1-5 1.3,Drama;Medicine;Business Administration
+Nevada,Louisiana,private,thous:8-17,ratio:57:43,ratio:10:1,506,567,thous$:25-35,41,thous:6-12,40,28,scale:1-5 1.7,scale:1-5 1.2,scale:1-5 2.0,English Literature;Law
+Hawaii College,Hawaii,private,thous:7-15,ratio:60:40,ratio:11:1,555,548,thous$:40-51,65,thous:2-12,77,43,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.7,Law;Biology
+Wyoming,Connecticut,private,thous:15-20,ratio:54:46,ratio:10:1,552,615,thous$:36-45,76,thous:12-26,42,41,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.2,Education
+University of Arkansas,North Dakota,public,thous:12-27,ratio:45:55,ratio:18:1,620,615,thous$:20-26,56,thous:11-16,86,43,scale:1-5 1.6,scale:1-5 1.0,scale:1-5 1.7,Architecture;Medicine;Sociology
+Lehigh State University,Nebraska,public,thous:26-34,ratio:58:42,ratio:23:1,608,521,thous$:16-23,36,thous:22-26,43,30,scale:1-5 1.3,scale:1-5 1.4,scale:1-5 1.2,Political Science
+Penn,Georgia,private,thous:8-13,ratio:59:41,ratio:12:1,600,571,thous$:36-51,41,thous:4-9,79,33,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.8,Environmental Science;Engineering;Nursing
+University of UC Santa Barbara,Georgia,private,thous:4-13,ratio:48:52,ratio:10:1,567,575,thous$:39-52,72,thous:1-5,83,38,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.8,Architecture
+University of Emory,California,public,thous:12-19,ratio:43:57,ratio:22:1,570,531,thous$:21-28,45,thous:8-13,46,32,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.4,Biology
+University of Utah,Massachusetts,public,thous:16-36,ratio:47:53,ratio:15:1,551,573,thous$:21-28,29,thous:12-26,56,46,scale:1-5 1.3,scale:1-5 1.3,scale:1-5 1.0,Biology;Nursing
+Texas Tech State University,Indiana,public,thous:29-48,ratio:55:45,ratio:21:1,619,529,thous$:19-27,28,thous:28-36,89,35,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.8,Political Science;Architecture
+Nebraska,Alabama,public,thous:21-31,ratio:47:53,ratio:16:1,596,534,thous$:24-31,22,thous:18-25,89,31,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.0,Communications;Architecture;Sociology
+Stevens State University,Oregon,public,thous:21-37,ratio:58:42,ratio:20:1,505,619,thous$:11-17,24,thous:19-22,85,47,scale:1-5 1.3,scale:1-5 1.1,scale:1-5 1.8,Engineering;Sociology
+Montana College,Massachusetts,public,thous:7-12,ratio:45:55,ratio:23:1,563,607,thous$:11-20,24,thous:3-12,73,35,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 1.4,Nursing;Engineering
+University of Iowa State,West Virginia,private,thous:1-10,ratio:57:43,ratio:13:1,605,576,thous$:35-42,78,thous:1-5,68,21,scale:1-5 1.5,scale:1-5 1.2,scale:1-5 1.7,Political Science;Sociology;Art History
+UC Riverside State University,Louisiana,public,thous:11-16,ratio:41:59,ratio:20:1,581,552,thous$:24-32,45,thous:10-22,72,33,scale:1-5 1.3,scale:1-5 1.3,scale:1-5 1.1,Physics;Nursing;Drama
+Washington State University,Washington,private,thous:12-19,ratio:59:41,ratio:14:1,564,552,thous$:29-35,71,thous:7-22,71,43,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.7,Environmental Science;Drama
+Delaware State University,Hawaii,private,thous:3-9,ratio:45:55,ratio:11:1,526,581,thous$:30-36,54,thous:1-11,67,30,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.2,Art History;Sociology
+Albany State University,Utah,public,thous:22-40,ratio:43:57,ratio:15:1,526,541,thous$:11-20,40,thous:18-33,67,26,scale:1-5 1.3,scale:1-5 1.1,scale:1-5 1.0,Drama
+Tulane State University,Colorado,private,thous:12-20,ratio:55:45,ratio:12:1,576,547,thous$:32-38,53,thous:9-20,90,45,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.3,Economics;Philosophy;Music
+Oklahoma State University,Rhode Island,private,thous:8-16,ratio:53:47,ratio:10:1,577,588,thous$:25-36,78,thous:3-12,51,37,scale:1-5 1.4,scale:1-5 1.3,scale:1-5 1.0,Mathematics;Agriculture
+University of Penn,New York,public,thous:24-33,ratio:59:41,ratio:16:1,523,608,thous$:13-22,49,thous:20-28,74,39,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.4,Education
+University of Idaho,Kansas,public,thous:10-29,ratio:50:50,ratio:23:1,570,525,thous$:15-24,27,thous:8-19,66,43,scale:1-5 1.1,scale:1-5 1.3,scale:1-5 1.9,Business Administration;Sociology;Economics
+Buffalo State University,Alaska,public,thous:29-45,ratio:42:58,ratio:21:1,553,538,thous$:19-24,30,thous:28-35,73,39,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.5,Biology
+Fordham,Idaho,private,thous:4-14,ratio:49:51,ratio:12:1,601,626,thous$:22-35,46,thous:1-14,90,28,scale:1-5 1.3,scale:1-5 1.0,scale:1-5 2.0,Environmental Science
+University of Rutgers,New York,private,thous:12-18,ratio:50:50,ratio:13:1,581,600,thous$:20-30,79,thous:10-23,60,44,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.1,Chemistry;Engineering
+Tufts,Vermont,public,thous:20-29,ratio:48:52,ratio:19:1,552,608,thous$:15-21,41,thous:18-32,46,25,scale:1-5 1.2,scale:1-5 1.0,scale:1-5 1.0,Music;Psychology
+University of West Virginia,Nevada,private,thous:5-15,ratio:42:58,ratio:13:1,579,513,thous$:21-26,80,thous:1-11,81,34,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.3,English Literature;Sociology
+University of Nevada,Colorado,private,thous:10-14,ratio:55:45,ratio:14:1,598,609,thous$:30-45,63,thous:5-8,66,40,scale:1-5 1.4,scale:1-5 1.0,scale:1-5 1.3,Economics;Anthropology
+Stony Brook,Alabama,private,thous:8-13,ratio:59:41,ratio:13:1,559,526,thous$:22-35,64,thous:7-10,55,24,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.6,Anthropology
+Vanderbilt,Maryland,private,thous:13-23,ratio:50:50,ratio:12:1,602,522,thous$:28-36,57,thous:8-18,51,35,scale:1-5 1.1,scale:1-5 1.0,scale:1-5 1.3,Sociology;Law;Philosophy
+University of TCU,Montana,public,thous:28-42,ratio:41:59,ratio:25:1,616,534,thous$:25-35,48,thous:26-32,76,26,scale:1-5 1.0,scale:1-5 1.0,scale:1-5 2.0,Physics
+University of Stevens,Wyoming,public,thous:27-33,ratio:44:56,ratio:23:1,609,572,thous$:15-21,31,thous:24-30,94,20,scale:1-5 1.5,scale:1-5 1.0,scale:1-5 1.0,Medicine
+Baylor State University,California,private,thous:14-22,ratio:60:40,ratio:15:1,521,546,thous$:28-39,64,thous:9-15,86,32,scale:1-5 1.6,scale:1-5 1.1,scale:1-5 1.0,Psychology
+Pitt,Wyoming,public,thous:7-25,ratio:50:50,ratio:24:1,520,554,thous$:19-29,54,thous:2-13,70,46,scale:1-5 1.1,scale:1-5 1.1,scale:1-5 1.5,Architecture;Communications;Nursing
+UC Davis,Arkansas,private,thous:8-12,ratio:44:56,ratio:11:1,581,616,thous$:40-50,49,thous:7-13,51,38,scale:1-5 1.7,scale:1-5 1.5,scale:1-5 1.6,Business Administration;Computer Science
