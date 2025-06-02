@@ -18,3 +18,9 @@ def budget_score(expense, min_budget, max_budget):
     if expense < min_budget or expense > max_budget:
         return 0
     return 1 - ((expense - min_budget) / (max_budget - min_budget + 1e-6))  # avoid division by zero
+
+
+def gaussian_score(x, mu, sigma=1000):  # sigma = sensitivity
+    return np.exp(- ((x - mu) ** 2) / (2 * sigma ** 2))
+
+
