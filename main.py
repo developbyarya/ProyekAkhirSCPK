@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from helper import gaussian_score, split_empasis, count_matches, budget_score
+from helper import gaussian_score, split_empasis, count_matches, budget_score, heatmap
 
 
 # Load the dataset
@@ -163,3 +163,13 @@ result_df["WP Score"] = np.prod(perhitung_df.values ** bobot_norm_df.values, axi
 n_rank = st.number_input("Jumlah alternatif terbaik:", min_value=1, max_value=30, value=5)
 top_n = result_df.sort_values(by=["WP Score"], ascending=False)
 st.dataframe(top_n[['instance', 'state', 'control', 'WP Score']].head(n_rank))
+
+st.header("Visualisasi Peta Panas", divider=True)
+st.subheader("Skor SAT Total per Negara Bagian", divider=True)
+df['sat_total'] = df['sat_verbal'] + df['sat_math']
+# st.dataframe(df[['state', 'sat_total']].drop_duplicates().set_index('state'))
+st.plotly_chart(heatmap(df, 'sat_total'), use_container_width=True)
+st.subheader("Skor Popularitas per Negara Bagian", divider=True)
+st.plotly_chart(heatmap(df, 'popularity_index'), use_container_width=True)
+st.subheader("Rata-rata expenses per Negara Bagian", divider=True)
+st.plotly_chart(heatmap(df, 'expenses'), use_container_width=True)
